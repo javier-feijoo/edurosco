@@ -1,8 +1,8 @@
 ﻿{
-    "titulo":  "Banco base RoscoIntegra â€“ FP InformÃ¡tica + Transversales (respuestas 1 palabra)",
+    "titulo":  "Banco base RoscoIntegra - FP Informática + Transversales (respuestas 1 palabra)",
     "version":  "4.0",
     "fecha_generacion":  "2026-02-08",
-    "descripcion":  "Banco ampliado con 8 preguntas por letra. Respuestas en una sola palabra (sin espacios) y comenzando por la letra correspondiente. EspaÃ±ol (EspaÃ±a). Letras incluidas Aâ€“V (sin Ã‘).",
+    "descripcion":  "Banco ampliado con 8 preguntas por letra. Respuestas en una sola palabra (sin espacios) y comenzando por la letra correspondiente. Español (España). Letras incluidas A-V (sin Ñ).",
     "letras_incluidas":  [
                              "A",
                              "B",
@@ -34,7 +34,7 @@
                           "pregunta":  "Con la A: paso finito y ordenado para resolver un problema.",
                           "respuesta":  "Algoritmo",
                           "ciclo":  "DAW",
-                          "modulo":  "ProgramaciÃ³n",
+                          "modulo":  "Programación",
                           "dificultad":  "basica",
                           "distractores":  {
                                                "starts":  [
@@ -44,7 +44,7 @@
                                                           ],
                                                "contains":  [
                                                                 "Compilador",
-                                                                "DepuraciÃ³n",
+                                                                "Depuración",
                                                                 "Java"
                                                             ],
                                                "all":  [
@@ -80,14 +80,14 @@
                           "letra":  "A",
                           "tipo":  "empieza",
                           "pregunta":  "Con la A: proceso de verificar la identidad de un usuario.",
-                          "respuesta":  "AutenticaciÃ³n",
+                          "respuesta":  "Autenticación",
                           "ciclo":  "ASIR",
                           "modulo":  "Seguridad",
                           "dificultad":  "basica",
                           "distractores":  {
                                                "starts":  [
-                                                              "AutorizaciÃ³n",
-                                                              "AutomatizaciÃ³n",
+                                                              "Autorización",
+                                                              "Automatización",
                                                               "Adaptador"
                                                           ],
                                                "contains":  [
@@ -103,15 +103,15 @@
                       {
                           "letra":  "A",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la A: permiso que determina quÃ© puede hacer un usuario sobre un recurso.",
-                          "respuesta":  "AutorizaciÃ³n",
+                          "pregunta":  "Con la A: permiso que determina qué puede hacer un usuario sobre un recurso.",
+                          "respuesta":  "Autorización",
                           "ciclo":  "ASIR",
                           "modulo":  "Seguridad",
                           "dificultad":  "media",
                           "distractores":  {
                                                "starts":  [
-                                                              "AutenticaciÃ³n",
-                                                              "AutomatizaciÃ³n",
+                                                              "Autenticación",
+                                                              "Automatización",
                                                               "Adaptador"
                                                           ],
                                                "contains":  [
@@ -127,10 +127,10 @@
                       {
                           "letra":  "A",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la A: fichero que se usa para agrupar informaciÃ³n en el sistema.",
+                          "pregunta":  "Con la A: fichero que se usa para agrupar información en el sistema.",
                           "respuesta":  "Archivo",
                           "ciclo":  "FPB",
-                          "modulo":  "OfimÃ¡tica",
+                          "modulo":  "Ofimática",
                           "dificultad":  "basica",
                           "distractores":  {
                                                "starts":  [
@@ -139,8 +139,8 @@
                                                               "Algoritmo"
                                                           ],
                                                "contains":  [
-                                                                "GuÃ­a",
-                                                                "LÃ¡ser",
+                                                                "Guía",
+                                                                "Láser",
                                                                 "Tabla"
                                                             ],
                                                "all":  [
@@ -151,7 +151,7 @@
                       {
                           "letra":  "A",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la A: medida para reducir el consumo elÃ©ctrico en equipos TIC.",
+                          "pregunta":  "Con la A: medida para reducir el consumo eléctrico en equipos TIC.",
                           "respuesta":  "Ahorro",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "Sostenibilidad",
@@ -175,7 +175,7 @@
                       {
                           "letra":  "A",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la A: dispositivo que permite conectar un perifÃ©rico al equipo.",
+                          "pregunta":  "Con la A: dispositivo que permite conectar un periférico al equipo.",
                           "respuesta":  "Adaptador",
                           "ciclo":  "SMR",
                           "modulo":  "Montaje",
@@ -187,7 +187,7 @@
                                                               "API"
                                                           ],
                                                "contains":  [
-                                                                "InstrucciÃ³n",
+                                                                "Instrucción",
                                                                 "Motherboard",
                                                                 "RAM"
                                                             ],
@@ -199,19 +199,19 @@
                       {
                           "letra":  "A",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la A: tÃ©cnica para ejecutar tareas repetitivas sin intervenciÃ³n manual.",
-                          "respuesta":  "AutomatizaciÃ³n",
+                          "pregunta":  "Con la A: técnica para ejecutar tareas repetitivas sin intervención manual.",
+                          "respuesta":  "Automatización",
                           "ciclo":  "ASIR",
-                          "modulo":  "AdministraciÃ³n",
+                          "modulo":  "Administración",
                           "dificultad":  "media",
                           "distractores":  {
                                                "starts":  [
-                                                              "AutorizaciÃ³n",
-                                                              "AutenticaciÃ³n",
+                                                              "Autorización",
+                                                              "Autenticación",
                                                               "Adaptador"
                                                           ],
                                                "contains":  [
-                                                                "MÃ©trica",
+                                                                "Métrica",
                                                                 "Observabilidad",
                                                                 "Trazas"
                                                             ],
@@ -271,7 +271,7 @@
                       {
                           "letra":  "B",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la B: firmware clÃ¡sico que inicia el arranque del ordenador.",
+                          "pregunta":  "Con la B: firmware clásico que inicia el arranque del ordenador.",
                           "respuesta":  "BIOS",
                           "ciclo":  "SMR",
                           "modulo":  "Sistemas operativos",
@@ -295,7 +295,7 @@
                       {
                           "letra":  "B",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la B: capacidad de transmisiÃ³n de una conexiÃ³n, en redes.",
+                          "pregunta":  "Con la B: capacidad de transmisión de una conexión, en redes.",
                           "respuesta":  "Banda",
                           "ciclo":  "ASIR",
                           "modulo":  "Redes",
@@ -343,7 +343,7 @@
                       {
                           "letra":  "B",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la B: tipo de prueba que no mira el interior del cÃ³digo.",
+                          "pregunta":  "Con la B: tipo de prueba que no mira el interior del código.",
                           "respuesta":  "Blackbox",
                           "ciclo":  "DAW",
                           "modulo":  "Entornos de desarrollo",
@@ -367,7 +367,7 @@
                       {
                           "letra":  "B",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la B: unidad bÃ¡sica que puede representar 0 o 1.",
+                          "pregunta":  "Con la B: unidad básica que puede representar 0 o 1.",
                           "respuesta":  "Bit",
                           "ciclo":  "SMR",
                           "modulo":  "Montaje",
@@ -391,8 +391,8 @@
                       {
                           "letra":  "B",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la B: registro cronolÃ³gico de incidencias en un servicio tÃ©cnico.",
-                          "respuesta":  "BitÃ¡cora",
+                          "pregunta":  "Con la B: registro cronológico de incidencias en un servicio técnico.",
+                          "respuesta":  "Bitácora",
                           "ciclo":  "FPB",
                           "modulo":  "Operaciones auxiliares",
                           "dificultad":  "basica",
@@ -428,8 +428,8 @@
                                                           ],
                                                "contains":  [
                                                                 "Componente",
-                                                                "InstrucciÃ³n",
-                                                                "InstalaciÃ³n"
+                                                                "Instrucción",
+                                                                "Instalación"
                                                             ],
                                                "all":  [
 
@@ -439,7 +439,7 @@
                       {
                           "letra":  "C",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la C: lenguaje de estilos para dar formato a pÃ¡ginas web.",
+                          "pregunta":  "Con la C: lenguaje de estilos para dar formato a páginas web.",
                           "respuesta":  "CSS",
                           "ciclo":  "DAW",
                           "modulo":  "Lenguajes de marcas",
@@ -453,7 +453,7 @@
                                                "contains":  [
                                                                 "CSV",
                                                                 "Clonado",
-                                                                "ValidaciÃ³n"
+                                                                "Validación"
                                                             ],
                                                "all":  [
 
@@ -463,7 +463,7 @@
                       {
                           "letra":  "C",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la C: mÃ©todo para proteger datos transformÃ¡ndolos con una clave.",
+                          "pregunta":  "Con la C: método para proteger datos transformándolos con una clave.",
                           "respuesta":  "Cifrado",
                           "ciclo":  "ASIR",
                           "modulo":  "Seguridad",
@@ -475,7 +475,7 @@
                                                               "Clonado"
                                                           ],
                                                "contains":  [
-                                                                "AutorizaciÃ³n",
+                                                                "Autorización",
                                                                 "Encriptado",
                                                                 "Fullbackup"
                                                             ],
@@ -487,10 +487,10 @@
                       {
                           "letra":  "C",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la C: programa que traduce cÃ³digo fuente a ejecutable.",
+                          "pregunta":  "Con la C: programa que traduce código fuente a ejecutable.",
                           "respuesta":  "Compilador",
                           "ciclo":  "DAW",
-                          "modulo":  "ProgramaciÃ³n",
+                          "modulo":  "Programación",
                           "dificultad":  "media",
                           "distractores":  {
                                                "starts":  [
@@ -499,7 +499,7 @@
                                                               "CSV"
                                                           ],
                                                "contains":  [
-                                                                "DepuraciÃ³n",
+                                                                "Depuración",
                                                                 "Namespace",
                                                                 "Blackbox"
                                                             ],
@@ -511,7 +511,7 @@
                       {
                           "letra":  "C",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la C: acciÃ³n de copiar un repositorio remoto a tu equipo.",
+                          "pregunta":  "Con la C: acción de copiar un repositorio remoto a tu equipo.",
                           "respuesta":  "Clonado",
                           "ciclo":  "DAW",
                           "modulo":  "Entornos de desarrollo",
@@ -524,7 +524,7 @@
                                                           ],
                                                "contains":  [
                                                                 "Blackbox",
-                                                                "IntegraciÃ³n",
+                                                                "Integración",
                                                                 "Javadoc"
                                                             ],
                                                "all":  [
@@ -548,8 +548,8 @@
                                                           ],
                                                "contains":  [
                                                                 "CPU",
-                                                                "InstrucciÃ³n",
-                                                                "InstalaciÃ³n"
+                                                                "Instrucción",
+                                                                "Instalación"
                                                             ],
                                                "all":  [
 
@@ -573,7 +573,7 @@
                                                "contains":  [
                                                                 "CSS",
                                                                 "Clonado",
-                                                                "ValidaciÃ³n"
+                                                                "Validación"
                                                             ],
                                                "all":  [
 
@@ -583,7 +583,7 @@
                       {
                           "letra":  "C",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la C: modelo de producciÃ³n que prioriza reutilizar y reciclar.",
+                          "pregunta":  "Con la C: modelo de producción que prioriza reutilizar y reciclar.",
                           "respuesta":  "Circularidad",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "Sostenibilidad",
@@ -595,7 +595,7 @@
                                                               "Clonado"
                                                           ],
                                                "contains":  [
-                                                                "IntervenciÃ³n",
+                                                                "Intervención",
                                                                 "Upcycling",
                                                                 "Eficiencia"
                                                             ],
@@ -607,7 +607,7 @@
                       {
                           "letra":  "D",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la D: protocolo que asigna direcciones IP automÃ¡ticamente.",
+                          "pregunta":  "Con la D: protocolo que asigna direcciones IP automáticamente.",
                           "respuesta":  "DHCP",
                           "ciclo":  "ASIR",
                           "modulo":  "Redes",
@@ -679,7 +679,7 @@
                       {
                           "letra":  "D",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la D: proceso de publicar una aplicaciÃ³n en producciÃ³n.",
+                          "pregunta":  "Con la D: proceso de publicar una aplicación en producción.",
                           "respuesta":  "Despliegue",
                           "ciclo":  "DAW",
                           "modulo":  "Despliegue",
@@ -687,13 +687,13 @@
                           "distractores":  {
                                                "starts":  [
                                                               "Dataset",
-                                                              "DepuraciÃ³n",
+                                                              "Depuración",
                                                               "DHCP"
                                                           ],
                                                "contains":  [
                                                                 "Compilador",
                                                                 "Dataset",
-                                                                "DepuraciÃ³n"
+                                                                "Depuración"
                                                             ],
                                                "all":  [
 
@@ -703,19 +703,19 @@
                       {
                           "letra":  "D",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la D: conjunto de datos estructurados para anÃ¡lisis.",
+                          "pregunta":  "Con la D: conjunto de datos estructurados para análisis.",
                           "respuesta":  "Dataset",
                           "ciclo":  "DAW",
                           "modulo":  "Bases de datos",
                           "dificultad":  "media",
                           "distractores":  {
                                                "starts":  [
-                                                              "DepuraciÃ³n",
+                                                              "Depuración",
                                                               "Despliegue",
                                                               "DHCP"
                                                           ],
                                                "contains":  [
-                                                                "EdiciÃ³n",
+                                                                "Edición",
                                                                 "SGBD",
                                                                 "BBDD"
                                                             ],
@@ -751,7 +751,7 @@
                       {
                           "letra":  "D",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la D: anÃ¡lisis de Debilidades, Amenazas, Fortalezas y Oportunidades.",
+                          "pregunta":  "Con la D: análisis de Debilidades, Amenazas, Fortalezas y Oportunidades.",
                           "respuesta":  "DAFO",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "Emprendimiento",
@@ -776,9 +776,9 @@
                           "letra":  "D",
                           "tipo":  "empieza",
                           "pregunta":  "Con la D: actividad de encontrar y corregir fallos en un programa.",
-                          "respuesta":  "DepuraciÃ³n",
+                          "respuesta":  "Depuración",
                           "ciclo":  "DAW",
-                          "modulo":  "ProgramaciÃ³n",
+                          "modulo":  "Programación",
                           "dificultad":  "media",
                           "distractores":  {
                                                "starts":  [
@@ -806,9 +806,9 @@
                           "dificultad":  "basica",
                           "distractores":  {
                                                "starts":  [
-                                                              "EdiciÃ³n",
+                                                              "Edición",
                                                               "Endpoint",
-                                                              "ExtracciÃ³n"
+                                                              "Extracción"
                                                           ],
                                                "contains":  [
                                                                 "Prueba",
@@ -823,7 +823,7 @@
                       {
                           "letra":  "E",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la E: medida para reducir consumo elÃ©ctrico en aula TIC.",
+                          "pregunta":  "Con la E: medida para reducir consumo eléctrico en aula TIC.",
                           "respuesta":  "Eficiencia",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "Sostenibilidad",
@@ -837,7 +837,7 @@
                                                "contains":  [
                                                                 "GreenIT",
                                                                 "Sostenibilidad",
-                                                                "IntervenciÃ³n"
+                                                                "Intervención"
                                                             ],
                                                "all":  [
 
@@ -847,20 +847,20 @@
                       {
                           "letra":  "E",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la E: acciÃ³n de escribir cambios en una base de datos.",
-                          "respuesta":  "EdiciÃ³n",
+                          "pregunta":  "Con la E: acción de escribir cambios en una base de datos.",
+                          "respuesta":  "Edición",
                           "ciclo":  "DAW",
                           "modulo":  "Bases de datos",
                           "dificultad":  "media",
                           "distractores":  {
                                                "starts":  [
-                                                              "ExtracciÃ³n",
+                                                              "Extracción",
                                                               "Endpoint",
                                                               "Entorno"
                                                           ],
                                                "contains":  [
                                                                 "Dataset",
-                                                                "ExtracciÃ³n",
+                                                                "Extracción",
                                                                 "Persistencia"
                                                             ],
                                                "all":  [
@@ -871,19 +871,19 @@
                       {
                           "letra":  "E",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la E: hoja de cÃ¡lculo muy comÃºn en ofimÃ¡tica.",
+                          "pregunta":  "Con la E: hoja de cálculo muy común en ofimática.",
                           "respuesta":  "Excel",
                           "ciclo":  "FPB",
-                          "modulo":  "OfimÃ¡tica",
+                          "modulo":  "Ofimática",
                           "dificultad":  "basica",
                           "distractores":  {
                                                "starts":  [
                                                               "Eficiencia",
                                                               "Entorno",
-                                                              "EdiciÃ³n"
+                                                              "Edición"
                                                           ],
                                                "contains":  [
-                                                                "LÃ¡ser",
+                                                                "Láser",
                                                                 "Mouse",
                                                                 "OpenOffice"
                                                             ],
@@ -903,12 +903,12 @@
                           "distractores":  {
                                                "starts":  [
                                                               "Eficiencia",
-                                                              "EdiciÃ³n",
+                                                              "Edición",
                                                               "Encriptado"
                                                           ],
                                                "contains":  [
                                                                 "Briefing",
-                                                                "InvestigaciÃ³n",
+                                                                "Investigación",
                                                                 "Libre"
                                                             ],
                                                "all":  [
@@ -919,20 +919,20 @@
                       {
                           "letra":  "E",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la E: acciÃ³n de extraer datos de un sistema o BD.",
-                          "respuesta":  "ExtracciÃ³n",
+                          "pregunta":  "Con la E: acción de extraer datos de un sistema o BD.",
+                          "respuesta":  "Extracción",
                           "ciclo":  "DAW",
                           "modulo":  "Bases de datos",
                           "dificultad":  "media",
                           "distractores":  {
                                                "starts":  [
-                                                              "EdiciÃ³n",
+                                                              "Edición",
                                                               "Endpoint",
                                                               "Entorno"
                                                           ],
                                                "contains":  [
                                                                 "Dataset",
-                                                                "EdiciÃ³n",
+                                                                "Edición",
                                                                 "Persistencia"
                                                             ],
                                                "all":  [
@@ -950,8 +950,8 @@
                           "dificultad":  "media",
                           "distractores":  {
                                                "starts":  [
-                                                              "EdiciÃ³n",
-                                                              "ExtracciÃ³n",
+                                                              "Edición",
+                                                              "Extracción",
                                                               "Entorno"
                                                           ],
                                                "contains":  [
@@ -967,20 +967,20 @@
                       {
                           "letra":  "E",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la E: tÃ©cnica de proteger informaciÃ³n mediante codificaciÃ³n.",
+                          "pregunta":  "Con la E: técnica de proteger información mediante codificación.",
                           "respuesta":  "Encriptado",
                           "ciclo":  "ASIR",
                           "modulo":  "Seguridad",
                           "dificultad":  "media",
                           "distractores":  {
                                                "starts":  [
-                                                              "EdiciÃ³n",
+                                                              "Edición",
                                                               "Endpoint",
                                                               "Estandar"
                                                           ],
                                                "contains":  [
-                                                                "IngenierÃ­a",
-                                                                "RestauraciÃ³n",
+                                                                "Ingeniería",
+                                                                "Restauración",
                                                                 "Spyware"
                                                             ],
                                                "all":  [
@@ -991,7 +991,7 @@
                       {
                           "letra":  "F",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la F: dispositivo o software que filtra trÃ¡fico segÃºn reglas.",
+                          "pregunta":  "Con la F: dispositivo o software que filtra tráfico según reglas.",
                           "respuesta":  "Firewall",
                           "ciclo":  "ASIR",
                           "modulo":  "Seguridad",
@@ -1015,7 +1015,7 @@
                       {
                           "letra":  "F",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la F: sistema de archivos comÃºn en memorias USB.",
+                          "pregunta":  "Con la F: sistema de archivos común en memorias USB.",
                           "respuesta":  "FAT32",
                           "ciclo":  "SMR",
                           "modulo":  "Sistemas operativos",
@@ -1023,7 +1023,7 @@
                           "distractores":  {
                                                "starts":  [
                                                               "Firmware",
-                                                              "FinanciaciÃ³n",
+                                                              "Financiación",
                                                               "Framework"
                                                           ],
                                                "contains":  [
@@ -1039,7 +1039,7 @@
                       {
                           "letra":  "F",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la F: conjunto de librerÃ­as que facilitan desarrollar una aplicaciÃ³n.",
+                          "pregunta":  "Con la F: conjunto de librerías que facilitan desarrollar una aplicación.",
                           "respuesta":  "Framework",
                           "ciclo":  "DAW",
                           "modulo":  "Servidor",
@@ -1048,7 +1048,7 @@
                                                "starts":  [
                                                               "Filtro",
                                                               "FAT32",
-                                                              "FinanciaciÃ³n"
+                                                              "Financiación"
                                                           ],
                                                "contains":  [
                                                                 "Manifest",
@@ -1063,7 +1063,7 @@
                       {
                           "letra":  "F",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la F: protocolo clÃ¡sico para transferencia de archivos.",
+                          "pregunta":  "Con la F: protocolo clásico para transferencia de archivos.",
                           "respuesta":  "FTP",
                           "ciclo":  "ASIR",
                           "modulo":  "Servicios",
@@ -1087,7 +1087,7 @@
                       {
                           "letra":  "F",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la F: copia de seguridad completa (tÃ©rmino).",
+                          "pregunta":  "Con la F: copia de seguridad completa (término).",
                           "respuesta":  "Fullbackup",
                           "ciclo":  "ASIR",
                           "modulo":  "Seguridad",
@@ -1111,7 +1111,7 @@
                       {
                           "letra":  "F",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la F: software bÃ¡sico embebido en un dispositivo.",
+                          "pregunta":  "Con la F: software básico embebido en un dispositivo.",
                           "respuesta":  "Firmware",
                           "ciclo":  "SMR",
                           "modulo":  "Montaje",
@@ -1119,7 +1119,7 @@
                           "distractores":  {
                                                "starts":  [
                                                               "FAT32",
-                                                              "FinanciaciÃ³n",
+                                                              "Financiación",
                                                               "Framework"
                                                           ],
                                                "contains":  [
@@ -1135,7 +1135,7 @@
                       {
                           "letra":  "F",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la F: condiciÃ³n para seleccionar registros en una consulta.",
+                          "pregunta":  "Con la F: condición para seleccionar registros en una consulta.",
                           "respuesta":  "Filtro",
                           "ciclo":  "DAW",
                           "modulo":  "Bases de datos",
@@ -1159,8 +1159,8 @@
                       {
                           "letra":  "F",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la F: recursos econÃ³micos para iniciar un proyecto.",
-                          "respuesta":  "FinanciaciÃ³n",
+                          "pregunta":  "Con la F: recursos económicos para iniciar un proyecto.",
+                          "respuesta":  "Financiación",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "Emprendimiento",
                           "dificultad":  "media",
@@ -1172,7 +1172,7 @@
                                                           ],
                                                "contains":  [
                                                                 "Briefing",
-                                                                "PlanificaciÃ³n",
+                                                                "Planificación",
                                                                 "DAFO"
                                                             ],
                                                "all":  [
@@ -1196,7 +1196,7 @@
                                                           ],
                                                "contains":  [
                                                                 "Gradle",
-                                                                "IntegraciÃ³n",
+                                                                "Integración",
                                                                 "Algoritmo"
                                                             ],
                                                "all":  [
@@ -1207,7 +1207,7 @@
                       {
                           "letra":  "G",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la G: interfaz grÃ¡fica de usuario.",
+                          "pregunta":  "Con la G: interfaz gráfica de usuario.",
                           "respuesta":  "GUI",
                           "ciclo":  "SMR",
                           "modulo":  "Sistemas operativos",
@@ -1231,7 +1231,7 @@
                       {
                           "letra":  "G",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la G: componente que procesa grÃ¡ficos y acelera vÃ­deo.",
+                          "pregunta":  "Con la G: componente que procesa gráficos y acelera vídeo.",
                           "respuesta":  "GPU",
                           "ciclo":  "SMR",
                           "modulo":  "Montaje",
@@ -1267,8 +1267,8 @@
                                                               "Git"
                                                           ],
                                                "contains":  [
-                                                                "TopologÃ­a",
-                                                                "IngenierÃ­a",
+                                                                "Topología",
+                                                                "Ingeniería",
                                                                 "Userconfig"
                                                             ],
                                                "all":  [
@@ -1280,9 +1280,9 @@
                           "letra":  "G",
                           "tipo":  "empieza",
                           "pregunta":  "Con la G: documento que recoge normas y recomendaciones de uso.",
-                          "respuesta":  "GuÃ­a",
+                          "respuesta":  "Guía",
                           "ciclo":  "FPB",
-                          "modulo":  "OfimÃ¡tica",
+                          "modulo":  "Ofimática",
                           "dificultad":  "basica",
                           "distractores":  {
                                                "starts":  [
@@ -1303,7 +1303,7 @@
                       {
                           "letra":  "G",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la G: informÃ¡tica sostenible, tambiÃ©n llamada TI verde.",
+                          "pregunta":  "Con la G: informática sostenible, también llamada TI verde.",
                           "respuesta":  "GreenIT",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "Sostenibilidad",
@@ -1317,7 +1317,7 @@
                                                "contains":  [
                                                                 "Negawatt",
                                                                 "Upcycling",
-                                                                "InvestigaciÃ³n"
+                                                                "Investigación"
                                                             ],
                                                "all":  [
 
@@ -1327,7 +1327,7 @@
                       {
                           "letra":  "G",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la G: herramienta de automatizaciÃ³n de builds en Java.",
+                          "pregunta":  "Con la G: herramienta de automatización de builds en Java.",
                           "respuesta":  "Gradle",
                           "ciclo":  "DAW",
                           "modulo":  "Entornos de desarrollo",
@@ -1339,7 +1339,7 @@
                                                               "GPU"
                                                           ],
                                                "contains":  [
-                                                                "IntegraciÃ³n",
+                                                                "Integración",
                                                                 "Git",
                                                                 "Despliegue"
                                                             ],
@@ -1354,7 +1354,7 @@
                           "pregunta":  "Con la G: conjunto de reglas aplicadas a usuarios en un sistema.",
                           "respuesta":  "Grupo",
                           "ciclo":  "ASIR",
-                          "modulo":  "AdministraciÃ³n",
+                          "modulo":  "Administración",
                           "dificultad":  "basica",
                           "distractores":  {
                                                "starts":  [
@@ -1365,7 +1365,7 @@
                                                "contains":  [
                                                                 "Log",
                                                                 "Userconfig",
-                                                                "TopologÃ­a"
+                                                                "Topología"
                                                             ],
                                                "all":  [
 
@@ -1375,7 +1375,7 @@
                       {
                           "letra":  "H",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la H: protocolo para transferir pÃ¡ginas web.",
+                          "pregunta":  "Con la H: protocolo para transferir páginas web.",
                           "respuesta":  "HTTP",
                           "ciclo":  "DAW",
                           "modulo":  "Despliegue",
@@ -1399,7 +1399,7 @@
                       {
                           "letra":  "H",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la H: versiÃ³n segura de HTTP con cifrado.",
+                          "pregunta":  "Con la H: versión segura de HTTP con cifrado.",
                           "respuesta":  "HTTPS",
                           "ciclo":  "DAW",
                           "modulo":  "Despliegue",
@@ -1423,7 +1423,7 @@
                       {
                           "letra":  "H",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la H: software que permite virtualizar y ejecutar mÃ¡quinas virtuales.",
+                          "pregunta":  "Con la H: software que permite virtualizar y ejecutar máquinas virtuales.",
                           "respuesta":  "Hypervisor",
                           "ciclo":  "ASIR",
                           "modulo":  "Sistemas",
@@ -1447,7 +1447,7 @@
                       {
                           "letra":  "H",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la H: funciÃ³n criptogrÃ¡fica para verificar integridad.",
+                          "pregunta":  "Con la H: función criptográfica para verificar integridad.",
                           "respuesta":  "Hash",
                           "ciclo":  "ASIR",
                           "modulo":  "Seguridad",
@@ -1471,10 +1471,10 @@
                       {
                           "letra":  "H",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la H: componente fÃ­sico del ordenador, en inglÃ©s tÃ©cnico.",
+                          "pregunta":  "Con la H: componente físico del ordenador, en inglés técnico.",
                           "respuesta":  "Hardware",
                           "ciclo":  "TRANSVERSAL",
-                          "modulo":  "InglÃ©s",
+                          "modulo":  "Inglés",
                           "dificultad":  "basica",
                           "distractores":  {
                                                "starts":  [
@@ -1519,7 +1519,7 @@
                       {
                           "letra":  "H",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la H: encabezado que acompaÃ±a a una peticiÃ³n HTTP.",
+                          "pregunta":  "Con la H: encabezado que acompaña a una petición HTTP.",
                           "respuesta":  "Header",
                           "ciclo":  "DAW",
                           "modulo":  "Cliente",
@@ -1543,7 +1543,7 @@
                       {
                           "letra":  "H",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la H: herramienta para ver el uso de recursos en Linux (tÃ©rmino).",
+                          "pregunta":  "Con la H: herramienta para ver el uso de recursos en Linux (término).",
                           "respuesta":  "Htop",
                           "ciclo":  "ASIR",
                           "modulo":  "Sistemas",
@@ -1574,14 +1574,14 @@
                           "dificultad":  "basica",
                           "distractores":  {
                                                "starts":  [
-                                                              "IngenierÃ­a",
-                                                              "InstalaciÃ³n",
-                                                              "InstrucciÃ³n"
+                                                              "Ingeniería",
+                                                              "Instalación",
+                                                              "Instrucción"
                                                           ],
                                                "contains":  [
                                                                 "Switch",
                                                                 "Radio",
-                                                                "AutenticaciÃ³n"
+                                                                "Autenticación"
                                                             ],
                                                "all":  [
 
@@ -1592,14 +1592,14 @@
                           "letra":  "I",
                           "tipo":  "empieza",
                           "pregunta":  "Con la I: proceso de colocar un programa en un equipo.",
-                          "respuesta":  "InstalaciÃ³n",
+                          "respuesta":  "Instalación",
                           "ciclo":  "SMR",
-                          "modulo":  "OfimÃ¡tica",
+                          "modulo":  "Ofimática",
                           "dificultad":  "basica",
                           "distractores":  {
                                                "starts":  [
-                                                              "InstrucciÃ³n",
-                                                              "InvestigaciÃ³n",
+                                                              "Instrucción",
+                                                              "Investigación",
                                                               "IP"
                                                           ],
                                                "contains":  [
@@ -1622,13 +1622,13 @@
                           "dificultad":  "media",
                           "distractores":  {
                                                "starts":  [
-                                                              "IntegraciÃ³n",
-                                                              "IngenierÃ­a",
-                                                              "IntervenciÃ³n"
+                                                              "Integración",
+                                                              "Ingeniería",
+                                                              "Intervención"
                                                           ],
                                                "contains":  [
                                                                 "Hypervisor",
-                                                                "VirtualizaciÃ³n",
+                                                                "Virtualización",
                                                                 "Compilador"
                                                             ],
                                                "all":  [
@@ -1639,16 +1639,16 @@
                       {
                           "letra":  "I",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la I: proceso de integrar cambios de cÃ³digo de forma continua.",
-                          "respuesta":  "IntegraciÃ³n",
+                          "pregunta":  "Con la I: proceso de integrar cambios de código de forma continua.",
+                          "respuesta":  "Integración",
                           "ciclo":  "DAW",
                           "modulo":  "Entornos de desarrollo",
                           "dificultad":  "media",
                           "distractores":  {
                                                "starts":  [
                                                               "Interoperabilidad",
-                                                              "IngenierÃ­a",
-                                                              "IntervenciÃ³n"
+                                                              "Ingeniería",
+                                                              "Intervención"
                                                           ],
                                                "contains":  [
                                                                 "Git",
@@ -1664,14 +1664,14 @@
                           "letra":  "I",
                           "tipo":  "empieza",
                           "pregunta":  "Con la I: conjunto de instrucciones que ejecuta una CPU.",
-                          "respuesta":  "InstrucciÃ³n",
+                          "respuesta":  "Instrucción",
                           "ciclo":  "SMR",
                           "modulo":  "Montaje",
                           "dificultad":  "basica",
                           "distractores":  {
                                                "starts":  [
-                                                              "InstalaciÃ³n",
-                                                              "InvestigaciÃ³n",
+                                                              "Instalación",
+                                                              "Investigación",
                                                               "IP"
                                                           ],
                                                "contains":  [
@@ -1687,19 +1687,19 @@
                       {
                           "letra":  "I",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la I: rama de seguridad que estudia engaÃ±os al usuario.",
-                          "respuesta":  "IngenierÃ­a",
+                          "pregunta":  "Con la I: rama de seguridad que estudia engaños al usuario.",
+                          "respuesta":  "Ingeniería",
                           "ciclo":  "ASIR",
                           "modulo":  "Seguridad",
                           "dificultad":  "media",
                           "distractores":  {
                                                "starts":  [
                                                               "IP",
-                                                              "IntegraciÃ³n",
+                                                              "Integración",
                                                               "Interoperabilidad"
                                                           ],
                                                "contains":  [
-                                                                "AutorizaciÃ³n",
+                                                                "Autorización",
                                                                 "Cifrado",
                                                                 "Encriptado"
                                                             ],
@@ -1711,21 +1711,21 @@
                       {
                           "letra":  "I",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la I: medida para alargar vida Ãºtil de equipos mediante reparaciÃ³n.",
-                          "respuesta":  "IntervenciÃ³n",
+                          "pregunta":  "Con la I: medida para alargar vida útil de equipos mediante reparación.",
+                          "respuesta":  "Intervención",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "Sostenibilidad",
                           "dificultad":  "media",
                           "distractores":  {
                                                "starts":  [
-                                                              "InvestigaciÃ³n",
-                                                              "IngenierÃ­a",
-                                                              "IntegraciÃ³n"
+                                                              "Investigación",
+                                                              "Ingeniería",
+                                                              "Integración"
                                                           ],
                                                "contains":  [
                                                                 "Circularidad",
                                                                 "Upcycling",
-                                                                "VidaÃºtil"
+                                                                "Vidaútil"
                                                             ],
                                                "all":  [
 
@@ -1735,16 +1735,16 @@
                       {
                           "letra":  "I",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la I: anÃ¡lisis de mercado para un plan de empresa.",
-                          "respuesta":  "InvestigaciÃ³n",
+                          "pregunta":  "Con la I: análisis de mercado para un plan de empresa.",
+                          "respuesta":  "Investigación",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "Emprendimiento",
                           "dificultad":  "basica",
                           "distractores":  {
                                                "starts":  [
-                                                              "IntervenciÃ³n",
-                                                              "InstalaciÃ³n",
-                                                              "InstrucciÃ³n"
+                                                              "Intervención",
+                                                              "Instalación",
+                                                              "Instrucción"
                                                           ],
                                                "contains":  [
                                                                 "Libre",
@@ -1759,10 +1759,10 @@
                       {
                           "letra":  "J",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la J: lenguaje de programaciÃ³n orientado a objetos muy usado.",
+                          "pregunta":  "Con la J: lenguaje de programación orientado a objetos muy usado.",
                           "respuesta":  "Java",
                           "ciclo":  "DAW",
-                          "modulo":  "ProgramaciÃ³n",
+                          "modulo":  "Programación",
                           "dificultad":  "media",
                           "distractores":  {
                                                "starts":  [
@@ -1831,7 +1831,7 @@
                       {
                           "letra":  "J",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la J: archivo empaquetado tÃ­pico de aplicaciones Java.",
+                          "pregunta":  "Con la J: archivo empaquetado típico de aplicaciones Java.",
                           "respuesta":  "JAR",
                           "ciclo":  "DAW",
                           "modulo":  "Entornos de desarrollo",
@@ -1855,7 +1855,7 @@
                       {
                           "letra":  "J",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la J: documentaciÃ³n automÃ¡tica de cÃ³digo Java.",
+                          "pregunta":  "Con la J: documentación automática de código Java.",
                           "respuesta":  "Javadoc",
                           "ciclo":  "DAW",
                           "modulo":  "Entornos de desarrollo",
@@ -1879,7 +1879,7 @@
                       {
                           "letra":  "J",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la J: herramienta de integraciÃ³n continua muy usada.",
+                          "pregunta":  "Con la J: herramienta de integración continua muy usada.",
                           "respuesta":  "Jenkins",
                           "ciclo":  "DAW",
                           "modulo":  "Despliegue",
@@ -1927,10 +1927,10 @@
                       {
                           "letra":  "J",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la J: tarea o trabajo programado, en inglÃ©s tÃ©cnico.",
+                          "pregunta":  "Con la J: tarea o trabajo programado, en inglés técnico.",
                           "respuesta":  "Job",
                           "ciclo":  "TRANSVERSAL",
-                          "modulo":  "InglÃ©s",
+                          "modulo":  "Inglés",
                           "dificultad":  "basica",
                           "distractores":  {
                                                "starts":  [
@@ -1975,7 +1975,7 @@
                       {
                           "letra":  "L",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la L: red de Ã¡rea local (siglas).",
+                          "pregunta":  "Con la L: red de área local (siglas).",
                           "respuesta":  "LAN",
                           "ciclo":  "ASIR",
                           "modulo":  "Redes",
@@ -1988,7 +1988,7 @@
                                                           ],
                                                "contains":  [
                                                                 "Protocolo",
-                                                                "TopologÃ­a",
+                                                                "Topología",
                                                                 "VLAN"
                                                             ],
                                                "all":  [
@@ -2006,7 +2006,7 @@
                           "dificultad":  "basica",
                           "distractores":  {
                                                "starts":  [
-                                                              "LÃ¡ser",
+                                                              "Láser",
                                                               "LAN",
                                                               "Libre"
                                                           ],
@@ -2023,10 +2023,10 @@
                       {
                           "letra":  "L",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la L: impresora que utiliza tÃ³ner y tecnologÃ­a lÃ¡ser.",
-                          "respuesta":  "LÃ¡ser",
+                          "pregunta":  "Con la L: impresora que utiliza tóner y tecnología láser.",
+                          "respuesta":  "Láser",
                           "ciclo":  "FPB",
-                          "modulo":  "OfimÃ¡tica",
+                          "modulo":  "Ofimática",
                           "dificultad":  "basica",
                           "distractores":  {
                                                "starts":  [
@@ -2037,7 +2037,7 @@
                                                "contains":  [
                                                                 "Excel",
                                                                 "Tabla",
-                                                                "InstalaciÃ³n"
+                                                                "Instalación"
                                                             ],
                                                "all":  [
 
@@ -2047,10 +2047,10 @@
                       {
                           "letra":  "L",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la L: registro de eventos de un sistema o aplicaciÃ³n.",
+                          "pregunta":  "Con la L: registro de eventos de un sistema o aplicación.",
                           "respuesta":  "Log",
                           "ciclo":  "ASIR",
-                          "modulo":  "AdministraciÃ³n",
+                          "modulo":  "Administración",
                           "dificultad":  "basica",
                           "distractores":  {
                                                "starts":  [
@@ -2079,11 +2079,11 @@
                           "distractores":  {
                                                "starts":  [
                                                               "LCA",
-                                                              "LÃ¡ser",
+                                                              "Láser",
                                                               "LAN"
                                                           ],
                                                "contains":  [
-                                                                "PlanificaciÃ³n",
+                                                                "Planificación",
                                                                 "Quality",
                                                                 "Sostenibilidad"
                                                             ],
@@ -2095,7 +2095,7 @@
                       {
                           "letra":  "L",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la L: herramienta para mostrar puertos en uso en Linux (tÃ©rmino).",
+                          "pregunta":  "Con la L: herramienta para mostrar puertos en uso en Linux (término).",
                           "respuesta":  "Lsof",
                           "ciclo":  "ASIR",
                           "modulo":  "Sistemas",
@@ -2119,7 +2119,7 @@
                       {
                           "letra":  "L",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la L: evaluaciÃ³n del ciclo de vida usada en sostenibilidad (siglas).",
+                          "pregunta":  "Con la L: evaluación del ciclo de vida usada en sostenibilidad (siglas).",
                           "respuesta":  "LCA",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "Sostenibilidad",
@@ -2128,7 +2128,7 @@
                                                "starts":  [
                                                               "Libre",
                                                               "Lsof",
-                                                              "LÃ¡ser"
+                                                              "Láser"
                                                           ],
                                                "contains":  [
                                                                 "Circularidad",
@@ -2150,14 +2150,14 @@
                           "dificultad":  "basica",
                           "distractores":  {
                                                "starts":  [
-                                                              "MÃ©trica",
+                                                              "Métrica",
                                                               "Marketing",
                                                               "Motherboard"
                                                           ],
                                                "contains":  [
                                                                 "Sistemas",
                                                                 "Terminal",
-                                                                "AutomatizaciÃ³n"
+                                                                "Automatización"
                                                             ],
                                                "all":  [
 
@@ -2215,7 +2215,7 @@
                       {
                           "letra":  "M",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la M: fichero que declara recursos o configuraciÃ³n de una app.",
+                          "pregunta":  "Con la M: fichero que declara recursos o configuración de una app.",
                           "respuesta":  "Manifest",
                           "ciclo":  "DAW",
                           "modulo":  "Despliegue",
@@ -2224,7 +2224,7 @@
                                                "starts":  [
                                                               "Microservicios",
                                                               "MySQL",
-                                                              "MÃ©trica"
+                                                              "Métrica"
                                                           ],
                                                "contains":  [
                                                                 "Compilador",
@@ -2239,10 +2239,10 @@
                       {
                           "letra":  "M",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la M: valor numÃ©rico que mide rendimiento de un sistema.",
-                          "respuesta":  "MÃ©trica",
+                          "pregunta":  "Con la M: valor numérico que mide rendimiento de un sistema.",
+                          "respuesta":  "Métrica",
                           "ciclo":  "ASIR",
-                          "modulo":  "AdministraciÃ³n",
+                          "modulo":  "Administración",
                           "dificultad":  "media",
                           "distractores":  {
                                                "starts":  [
@@ -2251,7 +2251,7 @@
                                                               "Marketing"
                                                           ],
                                                "contains":  [
-                                                                "AutomatizaciÃ³n",
+                                                                "Automatización",
                                                                 "Nameserver",
                                                                 "OnDemand"
                                                             ],
@@ -2263,7 +2263,7 @@
                       {
                           "letra":  "M",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la M: arquitectura basada en servicios pequeÃ±os e independientes.",
+                          "pregunta":  "Con la M: arquitectura basada en servicios pequeños e independientes.",
                           "respuesta":  "Microservicios",
                           "ciclo":  "DAW",
                           "modulo":  "Servidor",
@@ -2272,7 +2272,7 @@
                                                "starts":  [
                                                               "Manifest",
                                                               "MySQL",
-                                                              "MÃ©trica"
+                                                              "Métrica"
                                                           ],
                                                "contains":  [
                                                                 "Framework",
@@ -2299,7 +2299,7 @@
                                                               "Mouse"
                                                           ],
                                                "contains":  [
-                                                                "QuÃ³rum",
+                                                                "Quórum",
                                                                 "Algoritmo",
                                                                 "Componente"
                                                             ],
@@ -2314,7 +2314,7 @@
                           "pregunta":  "Con la M: dispositivo de entrada controlado con la mano.",
                           "respuesta":  "Mouse",
                           "ciclo":  "FPB",
-                          "modulo":  "OfimÃ¡tica",
+                          "modulo":  "Ofimática",
                           "dificultad":  "basica",
                           "distractores":  {
                                                "starts":  [
@@ -2359,7 +2359,7 @@
                       {
                           "letra":  "N",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la N: traducciÃ³n de direcciones privadas a pÃºblica en un router.",
+                          "pregunta":  "Con la N: traducción de direcciones privadas a pública en un router.",
                           "respuesta":  "NAT",
                           "ciclo":  "ASIR",
                           "modulo":  "Redes",
@@ -2383,10 +2383,10 @@
                       {
                           "letra":  "N",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la N: espacio lÃ³gico donde se agrupan clases o funciones.",
+                          "pregunta":  "Con la N: espacio lógico donde se agrupan clases o funciones.",
                           "respuesta":  "Namespace",
                           "ciclo":  "DAW",
-                          "modulo":  "ProgramaciÃ³n",
+                          "modulo":  "Programación",
                           "dificultad":  "media",
                           "distractores":  {
                                                "starts":  [
@@ -2395,9 +2395,9 @@
                                                               "NAT"
                                                           ],
                                                "contains":  [
-                                                                "DepuraciÃ³n",
+                                                                "Depuración",
                                                                 "Threading",
-                                                                "EdiciÃ³n"
+                                                                "Edición"
                                                             ],
                                                "all":  [
 
@@ -2407,10 +2407,10 @@
                       {
                           "letra":  "N",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la N: en inglÃ©s tÃ©cnico, palabra para red.",
+                          "pregunta":  "Con la N: en inglés técnico, palabra para red.",
                           "respuesta":  "Network",
                           "ciclo":  "TRANSVERSAL",
-                          "modulo":  "InglÃ©s",
+                          "modulo":  "Inglés",
                           "dificultad":  "basica",
                           "distractores":  {
                                                "starts":  [
@@ -2421,7 +2421,7 @@
                                                "contains":  [
                                                                 "Eficiencia",
                                                                 "GreenIT",
-                                                                "InvestigaciÃ³n"
+                                                                "Investigación"
                                                             ],
                                                "all":  [
 
@@ -2431,7 +2431,7 @@
                       {
                           "letra":  "N",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la N: consumo evitado mediante eficiencia energÃ©tica (tÃ©rmino).",
+                          "pregunta":  "Con la N: consumo evitado mediante eficiencia energética (término).",
                           "respuesta":  "Negawatt",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "Sostenibilidad",
@@ -2445,7 +2445,7 @@
                                                "contains":  [
                                                                 "Eficiencia",
                                                                 "GreenIT",
-                                                                "IntervenciÃ³n"
+                                                                "Intervención"
                                                             ],
                                                "all":  [
 
@@ -2455,7 +2455,7 @@
                       {
                           "letra":  "N",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la N: punto de conexiÃ³n dentro de una red.",
+                          "pregunta":  "Con la N: punto de conexión dentro de una red.",
                           "respuesta":  "Nodo",
                           "ciclo":  "ASIR",
                           "modulo":  "Redes",
@@ -2479,7 +2479,7 @@
                       {
                           "letra":  "N",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la N: servidor que resuelve nombres de dominio (tÃ©rmino).",
+                          "pregunta":  "Con la N: servidor que resuelve nombres de dominio (término).",
                           "respuesta":  "Nameserver",
                           "ciclo":  "ASIR",
                           "modulo":  "Servicios",
@@ -2503,7 +2503,7 @@
                       {
                           "letra":  "N",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la N: servicio clÃ¡sico de directorio en red en Unix/Linux (siglas).",
+                          "pregunta":  "Con la N: servicio clásico de directorio en red en Unix/Linux (siglas).",
                           "respuesta":  "NIS",
                           "ciclo":  "ASIR",
                           "modulo":  "Servicios",
@@ -2551,10 +2551,10 @@
                       {
                           "letra":  "O",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la O: paradigma de programaciÃ³n basado en clases y ___ .",
+                          "pregunta":  "Con la O: paradigma de programación basado en clases y ___ .",
                           "respuesta":  "Objetos",
                           "ciclo":  "DAW",
-                          "modulo":  "ProgramaciÃ³n",
+                          "modulo":  "Programación",
                           "dificultad":  "media",
                           "distractores":  {
                                                "starts":  [
@@ -2575,10 +2575,10 @@
                       {
                           "letra":  "O",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la O: suite ofimÃ¡tica libre muy utilizada.",
+                          "pregunta":  "Con la O: suite ofimática libre muy utilizada.",
                           "respuesta":  "OpenOffice",
                           "ciclo":  "FPB",
-                          "modulo":  "OfimÃ¡tica",
+                          "modulo":  "Ofimática",
                           "dificultad":  "basica",
                           "distractores":  {
                                                "starts":  [
@@ -2589,7 +2589,7 @@
                                                "contains":  [
                                                                 "Archivo",
                                                                 "Mouse",
-                                                                "BitÃ¡cora"
+                                                                "Bitácora"
                                                             ],
                                                "all":  [
 
@@ -2599,10 +2599,10 @@
                       {
                           "letra":  "O",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la O: capacidad de observar un sistema con logs, mÃ©tricas y trazas.",
+                          "pregunta":  "Con la O: capacidad de observar un sistema con logs, métricas y trazas.",
                           "respuesta":  "Observabilidad",
                           "ciclo":  "ASIR",
-                          "modulo":  "AdministraciÃ³n",
+                          "modulo":  "Administración",
                           "dificultad":  "alta",
                           "distractores":  {
                                                "starts":  [
@@ -2611,7 +2611,7 @@
                                                               "Opciones"
                                                           ],
                                                "contains":  [
-                                                                "AutomatizaciÃ³n",
+                                                                "Automatización",
                                                                 "Grupo",
                                                                 "Log"
                                                             ],
@@ -2647,7 +2647,7 @@
                       {
                           "letra":  "O",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la O: servicio ofrecido bajo demanda, tÃ­pico en la nube (tÃ©rmino).",
+                          "pregunta":  "Con la O: servicio ofrecido bajo demanda, típico en la nube (término).",
                           "respuesta":  "OnDemand",
                           "ciclo":  "ASIR",
                           "modulo":  "Servicios",
@@ -2661,7 +2661,7 @@
                                                "contains":  [
                                                                 "Proxy",
                                                                 "Servicios",
-                                                                "AutomatizaciÃ³n"
+                                                                "Automatización"
                                                             ],
                                                "all":  [
 
@@ -2671,10 +2671,10 @@
                       {
                           "letra":  "O",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la O: operador lÃ³gico que devuelve verdadero si se cumple una condiciÃ³n u otra.",
+                          "pregunta":  "Con la O: operador lógico que devuelve verdadero si se cumple una condición u otra.",
                           "respuesta":  "OR",
                           "ciclo":  "DAW",
-                          "modulo":  "ProgramaciÃ³n",
+                          "modulo":  "Programación",
                           "dificultad":  "basica",
                           "distractores":  {
                                                "starts":  [
@@ -2695,7 +2695,7 @@
                       {
                           "letra":  "O",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la O: conjunto de parÃ¡metros que se pueden configurar en un programa.",
+                          "pregunta":  "Con la O: conjunto de parámetros que se pueden configurar en un programa.",
                           "respuesta":  "Opciones",
                           "ciclo":  "SMR",
                           "modulo":  "Sistemas",
@@ -2719,7 +2719,7 @@
                       {
                           "letra":  "P",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la P: lenguaje muy usado en backend web clÃ¡sico.",
+                          "pregunta":  "Con la P: lenguaje muy usado en backend web clásico.",
                           "respuesta":  "PHP",
                           "ciclo":  "DAW",
                           "modulo":  "Servidor",
@@ -2728,12 +2728,12 @@
                                                "starts":  [
                                                               "Persistencia",
                                                               "Prueba",
-                                                              "PlanificaciÃ³n"
+                                                              "Planificación"
                                                           ],
                                                "contains":  [
                                                                 "Endpoint",
                                                                 "Compilador",
-                                                                "DepuraciÃ³n"
+                                                                "Depuración"
                                                             ],
                                                "all":  [
 
@@ -2743,7 +2743,7 @@
                       {
                           "letra":  "P",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la P: servidor intermedio que reenvÃ­a peticiones y puede filtrar trÃ¡fico.",
+                          "pregunta":  "Con la P: servidor intermedio que reenvía peticiones y puede filtrar tráfico.",
                           "respuesta":  "Proxy",
                           "ciclo":  "ASIR",
                           "modulo":  "Servicios",
@@ -2767,7 +2767,7 @@
                       {
                           "letra":  "P",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la P: nÃºmero lÃ³gico que identifica un servicio en TCP/UDP.",
+                          "pregunta":  "Con la P: número lógico que identifica un servicio en TCP/UDP.",
                           "respuesta":  "Puerto",
                           "ciclo":  "ASIR",
                           "modulo":  "Redes",
@@ -2781,7 +2781,7 @@
                                                "contains":  [
                                                                 "IP",
                                                                 "Protocolo",
-                                                                "TopologÃ­a"
+                                                                "Topología"
                                                             ],
                                                "all":  [
 
@@ -2800,12 +2800,12 @@
                                                "starts":  [
                                                               "PHP",
                                                               "Prueba",
-                                                              "PlanificaciÃ³n"
+                                                              "Planificación"
                                                           ],
                                                "contains":  [
                                                                 "API",
                                                                 "Compilador",
-                                                                "DepuraciÃ³n"
+                                                                "Depuración"
                                                             ],
                                                "all":  [
 
@@ -2815,20 +2815,20 @@
                       {
                           "letra":  "P",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la P: estimaciÃ³n de costes e ingresos de un proyecto.",
+                          "pregunta":  "Con la P: estimación de costes e ingresos de un proyecto.",
                           "respuesta":  "Presupuesto",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "Emprendimiento",
                           "dificultad":  "basica",
                           "distractores":  {
                                                "starts":  [
-                                                              "PlanificaciÃ³n",
+                                                              "Planificación",
                                                               "Protocolo",
                                                               "Proxy"
                                                           ],
                                                "contains":  [
                                                                 "Oportunidad",
-                                                                "PlanificaciÃ³n",
+                                                                "Planificación",
                                                                 "Upcycling"
                                                             ],
                                                "all":  [
@@ -2839,7 +2839,7 @@
                       {
                           "letra":  "P",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la P: verificaciÃ³n para comprobar que algo funciona correctamente.",
+                          "pregunta":  "Con la P: verificación para comprobar que algo funciona correctamente.",
                           "respuesta":  "Prueba",
                           "ciclo":  "DAW",
                           "modulo":  "Entornos de desarrollo",
@@ -2863,7 +2863,7 @@
                       {
                           "letra":  "P",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la P: conjunto de reglas que gobiernan una comunicaciÃ³n en red.",
+                          "pregunta":  "Con la P: conjunto de reglas que gobiernan una comunicación en red.",
                           "respuesta":  "Protocolo",
                           "ciclo":  "ASIR",
                           "modulo":  "Redes",
@@ -2877,7 +2877,7 @@
                                                "contains":  [
                                                                 "IP",
                                                                 "Puerto",
-                                                                "TopologÃ­a"
+                                                                "Topología"
                                                             ],
                                                "all":  [
 
@@ -2888,7 +2888,7 @@
                           "letra":  "P",
                           "tipo":  "empieza",
                           "pregunta":  "Con la P: plan de trabajo con tareas y fechas.",
-                          "respuesta":  "PlanificaciÃ³n",
+                          "respuesta":  "Planificación",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "Emprendimiento",
                           "dificultad":  "media",
@@ -2911,7 +2911,7 @@
                       {
                           "letra":  "Q",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la Q: consulta a una base de datos (tÃ©rmino habitual).",
+                          "pregunta":  "Con la Q: consulta a una base de datos (término habitual).",
                           "respuesta":  "Query",
                           "ciclo":  "DAW",
                           "modulo":  "Bases de datos",
@@ -2920,7 +2920,7 @@
                                                "starts":  [
                                                               "QA",
                                                               "Queue",
-                                                              "QuÃ³rum"
+                                                              "Quórum"
                                                           ],
                                                "contains":  [
                                                                 "MySQL",
@@ -2959,20 +2959,20 @@
                       {
                           "letra":  "Q",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la Q: distribuciÃ³n de teclado mÃ¡s comÃºn en EspaÃ±a (tÃ©rmino).",
+                          "pregunta":  "Con la Q: distribución de teclado más común en España (término).",
                           "respuesta":  "QWERTY",
                           "ciclo":  "FPB",
-                          "modulo":  "OfimÃ¡tica",
+                          "modulo":  "Ofimática",
                           "dificultad":  "basica",
                           "distractores":  {
                                                "starts":  [
-                                                              "QuÃ³rum",
+                                                              "Quórum",
                                                               "Query",
                                                               "QA"
                                                           ],
                                                "contains":  [
                                                                 "MySQL",
-                                                                "QuÃ³rum",
+                                                                "Quórum",
                                                                 "Query"
                                                             ],
                                                "all":  [
@@ -2990,12 +2990,12 @@
                           "dificultad":  "media",
                           "distractores":  {
                                                "starts":  [
-                                                              "QuÃ³rum",
+                                                              "Quórum",
                                                               "QA",
                                                               "QoS"
                                                           ],
                                                "contains":  [
-                                                                "QuÃ³rum",
+                                                                "Quórum",
                                                                 "QA",
                                                                 "QoS"
                                                             ],
@@ -3007,8 +3007,8 @@
                       {
                           "letra":  "Q",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la Q: nÃºmero mÃ­nimo de asistentes para que una votaciÃ³n sea vÃ¡lida.",
-                          "respuesta":  "QuÃ³rum",
+                          "pregunta":  "Con la Q: número mínimo de asistentes para que una votación sea válida.",
+                          "respuesta":  "Quórum",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "Emprendimiento",
                           "dificultad":  "basica",
@@ -3031,7 +3031,7 @@
                       {
                           "letra":  "Q",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la Q: cuota o lÃ­mite asignado a un usuario en un sistema.",
+                          "pregunta":  "Con la Q: cuota o límite asignado a un usuario en un sistema.",
                           "respuesta":  "Quota",
                           "ciclo":  "ASIR",
                           "modulo":  "Sistemas",
@@ -3079,10 +3079,10 @@
                       {
                           "letra":  "Q",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la Q: estructura de datos tipo cola (tÃ©rmino).",
+                          "pregunta":  "Con la Q: estructura de datos tipo cola (término).",
                           "respuesta":  "Queue",
                           "ciclo":  "DAW",
-                          "modulo":  "ProgramaciÃ³n",
+                          "modulo":  "Programación",
                           "dificultad":  "media",
                           "distractores":  {
                                                "starts":  [
@@ -3117,7 +3117,7 @@
                                                "contains":  [
                                                                 "Adaptador",
                                                                 "Duro",
-                                                                "InstrucciÃ³n"
+                                                                "Instrucción"
                                                             ],
                                                "all":  [
 
@@ -3127,7 +3127,7 @@
                       {
                           "letra":  "R",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la R: equipo que enruta trÃ¡fico entre redes distintas.",
+                          "pregunta":  "Con la R: equipo que enruta tráfico entre redes distintas.",
                           "respuesta":  "Router",
                           "ciclo":  "ASIR",
                           "modulo":  "Redes",
@@ -3135,8 +3135,8 @@
                           "distractores":  {
                                                "starts":  [
                                                               "Radio",
-                                                              "RestauraciÃ³n",
-                                                              "RotaciÃ³n"
+                                                              "Restauración",
+                                                              "Rotación"
                                                           ],
                                                "contains":  [
                                                                 "Protocolo",
@@ -3151,7 +3151,7 @@
                       {
                           "letra":  "R",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la R: lugar donde se almacena y versiona cÃ³digo.",
+                          "pregunta":  "Con la R: lugar donde se almacena y versiona código.",
                           "respuesta":  "Repositorio",
                           "ciclo":  "DAW",
                           "modulo":  "Entornos de desarrollo",
@@ -3175,19 +3175,19 @@
                       {
                           "letra":  "R",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la R: acciÃ³n de recuperar un sistema desde una copia de seguridad.",
-                          "respuesta":  "RestauraciÃ³n",
+                          "pregunta":  "Con la R: acción de recuperar un sistema desde una copia de seguridad.",
+                          "respuesta":  "Restauración",
                           "ciclo":  "ASIR",
                           "modulo":  "Seguridad",
                           "dificultad":  "media",
                           "distractores":  {
                                                "starts":  [
-                                                              "RotaciÃ³n",
+                                                              "Rotación",
                                                               "Radio",
                                                               "Router"
                                                           ],
                                                "contains":  [
-                                                                "AutorizaciÃ³n",
+                                                                "Autorización",
                                                                 "Cifrado",
                                                                 "Encriptado"
                                                             ],
@@ -3199,19 +3199,19 @@
                       {
                           "letra":  "R",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la R: polÃ­tica de rotaciÃ³n de copias de seguridad (tÃ©rmino).",
-                          "respuesta":  "RotaciÃ³n",
+                          "pregunta":  "Con la R: política de rotación de copias de seguridad (término).",
+                          "respuesta":  "Rotación",
                           "ciclo":  "ASIR",
                           "modulo":  "Seguridad",
                           "dificultad":  "media",
                           "distractores":  {
                                                "starts":  [
-                                                              "RestauraciÃ³n",
+                                                              "Restauración",
                                                               "Radio",
                                                               "Router"
                                                           ],
                                                "contains":  [
-                                                                "AutorizaciÃ³n",
+                                                                "Autorización",
                                                                 "Cifrado",
                                                                 "Encriptado"
                                                             ],
@@ -3223,7 +3223,7 @@
                       {
                           "letra":  "R",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la R: red de Ã¡rea local inalÃ¡mbrica, en routers se llama asÃ­ (tÃ©rmino).",
+                          "pregunta":  "Con la R: red de área local inalámbrica, en routers se llama así (término).",
                           "respuesta":  "Radio",
                           "ciclo":  "ASIR",
                           "modulo":  "Redes",
@@ -3231,8 +3231,8 @@
                           "distractores":  {
                                                "starts":  [
                                                               "Router",
-                                                              "RestauraciÃ³n",
-                                                              "RotaciÃ³n"
+                                                              "Restauración",
+                                                              "Rotación"
                                                           ],
                                                "contains":  [
                                                                 "Protocolo",
@@ -3247,7 +3247,7 @@
                       {
                           "letra":  "R",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la R: operaciÃ³n SQL para recuperar filas.",
+                          "pregunta":  "Con la R: operación SQL para recuperar filas.",
                           "respuesta":  "Read",
                           "ciclo":  "DAW",
                           "modulo":  "Bases de datos",
@@ -3261,7 +3261,7 @@
                                                "contains":  [
                                                                 "Filtro",
                                                                 "Query",
-                                                                "ExtracciÃ³n"
+                                                                "Extracción"
                                                             ],
                                                "all":  [
 
@@ -3343,7 +3343,7 @@
                       {
                           "letra":  "S",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la S: inicio de sesiÃ³n Ãºnico (siglas).",
+                          "pregunta":  "Con la S: inicio de sesión único (siglas).",
                           "respuesta":  "SSO",
                           "ciclo":  "ASIR",
                           "modulo":  "Seguridad",
@@ -3356,7 +3356,7 @@
                                                           ],
                                                "contains":  [
                                                                 "Hash",
-                                                                "RestauraciÃ³n",
+                                                                "Restauración",
                                                                 "Snapshot"
                                                             ],
                                                "all":  [
@@ -3367,7 +3367,7 @@
                       {
                           "letra":  "S",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la S: software espÃ­a que recopila informaciÃ³n sin permiso.",
+                          "pregunta":  "Con la S: software espía que recopila información sin permiso.",
                           "respuesta":  "Spyware",
                           "ciclo":  "ASIR",
                           "modulo":  "Seguridad",
@@ -3380,7 +3380,7 @@
                                                           ],
                                                "contains":  [
                                                                 "Hash",
-                                                                "RestauraciÃ³n",
+                                                                "Restauración",
                                                                 "Snapshot"
                                                             ],
                                                "all":  [
@@ -3391,7 +3391,7 @@
                       {
                           "letra":  "S",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la S: instantÃ¡nea del estado de un sistema o disco.",
+                          "pregunta":  "Con la S: instantánea del estado de un sistema o disco.",
                           "respuesta":  "Snapshot",
                           "ciclo":  "ASIR",
                           "modulo":  "Seguridad",
@@ -3404,7 +3404,7 @@
                                                           ],
                                                "contains":  [
                                                                 "Hash",
-                                                                "RestauraciÃ³n",
+                                                                "Restauración",
                                                                 "Spyware"
                                                             ],
                                                "all":  [
@@ -3439,7 +3439,7 @@
                       {
                           "letra":  "S",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la S: disciplina de administraciÃ³n de servidores y redes.",
+                          "pregunta":  "Con la S: disciplina de administración de servidores y redes.",
                           "respuesta":  "Sistemas",
                           "ciclo":  "ASIR",
                           "modulo":  "Sistemas",
@@ -3463,7 +3463,7 @@
                       {
                           "letra":  "S",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la S: prÃ¡ctica para reducir impacto ambiental en TIC.",
+                          "pregunta":  "Con la S: práctica para reducir impacto ambiental en TIC.",
                           "respuesta":  "Sostenibilidad",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "Sostenibilidad",
@@ -3475,7 +3475,7 @@
                                                               "Switch"
                                                           ],
                                                "contains":  [
-                                                                "InvestigaciÃ³n",
+                                                                "Investigación",
                                                                 "Presupuesto",
                                                                 "Registro"
                                                             ],
@@ -3487,7 +3487,7 @@
                       {
                           "letra":  "T",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la T: prueba automÃ¡tica de una unidad concreta de cÃ³digo.",
+                          "pregunta":  "Con la T: prueba automática de una unidad concreta de código.",
                           "respuesta":  "Test",
                           "ciclo":  "DAW",
                           "modulo":  "Entornos de desarrollo",
@@ -3519,13 +3519,13 @@
                           "distractores":  {
                                                "starts":  [
                                                               "Terminal",
-                                                              "TopologÃ­a",
+                                                              "Topología",
                                                               "Trazas"
                                                           ],
                                                "contains":  [
-                                                                "AutorizaciÃ³n",
+                                                                "Autorización",
                                                                 "Encriptado",
-                                                                "RestauraciÃ³n"
+                                                                "Restauración"
                                                             ],
                                                "all":  [
 
@@ -3535,8 +3535,8 @@
                       {
                           "letra":  "T",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la T: disposiciÃ³n de una red (concepto).",
-                          "respuesta":  "TopologÃ­a",
+                          "pregunta":  "Con la T: disposición de una red (concepto).",
+                          "respuesta":  "Topología",
                           "ciclo":  "ASIR",
                           "modulo":  "Redes",
                           "dificultad":  "basica",
@@ -3562,7 +3562,7 @@
                           "pregunta":  "Con la T: elemento con filas y columnas en un documento.",
                           "respuesta":  "Tabla",
                           "ciclo":  "FPB",
-                          "modulo":  "OfimÃ¡tica",
+                          "modulo":  "Ofimática",
                           "dificultad":  "basica",
                           "distractores":  {
                                                "starts":  [
@@ -3572,8 +3572,8 @@
                                                           ],
                                                "contains":  [
                                                                 "QWERTY",
-                                                                "InstalaciÃ³n",
-                                                                "BitÃ¡cora"
+                                                                "Instalación",
+                                                                "Bitácora"
                                                             ],
                                                "all":  [
 
@@ -3583,10 +3583,10 @@
                       {
                           "letra":  "T",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la T: herramienta, en inglÃ©s tÃ©cnico.",
+                          "pregunta":  "Con la T: herramienta, en inglés técnico.",
                           "respuesta":  "Tool",
                           "ciclo":  "TRANSVERSAL",
-                          "modulo":  "InglÃ©s",
+                          "modulo":  "Inglés",
                           "dificultad":  "basica",
                           "distractores":  {
                                                "starts":  [
@@ -3597,7 +3597,7 @@
                                                "contains":  [
                                                                 "Network",
                                                                 "GreenIT",
-                                                                "InvestigaciÃ³n"
+                                                                "Investigación"
                                                             ],
                                                "all":  [
 
@@ -3614,7 +3614,7 @@
                           "dificultad":  "basica",
                           "distractores":  {
                                                "starts":  [
-                                                              "TopologÃ­a",
+                                                              "Topología",
                                                               "TLS",
                                                               "Trazas"
                                                           ],
@@ -3631,21 +3631,21 @@
                       {
                           "letra":  "T",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la T: tÃ©cnica para registrar el recorrido de una peticiÃ³n (concepto).",
+                          "pregunta":  "Con la T: técnica para registrar el recorrido de una petición (concepto).",
                           "respuesta":  "Trazas",
                           "ciclo":  "ASIR",
-                          "modulo":  "AdministraciÃ³n",
+                          "modulo":  "Administración",
                           "dificultad":  "alta",
                           "distractores":  {
                                                "starts":  [
                                                               "Terminal",
                                                               "TLS",
-                                                              "TopologÃ­a"
+                                                              "Topología"
                                                           ],
                                                "contains":  [
-                                                                "AutomatizaciÃ³n",
-                                                                "MÃ©trica",
-                                                                "AutenticaciÃ³n"
+                                                                "Automatización",
+                                                                "Métrica",
+                                                                "Autenticación"
                                                             ],
                                                "all":  [
 
@@ -3655,10 +3655,10 @@
                       {
                           "letra":  "T",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la T: concurrencia mediante hilos dentro de un programa (tÃ©rmino).",
+                          "pregunta":  "Con la T: concurrencia mediante hilos dentro de un programa (término).",
                           "respuesta":  "Threading",
                           "ciclo":  "DAW",
-                          "modulo":  "ProgramaciÃ³n",
+                          "modulo":  "Programación",
                           "dificultad":  "alta",
                           "distractores":  {
                                                "starts":  [
@@ -3679,7 +3679,7 @@
                       {
                           "letra":  "U",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la U: elemento que identifica de forma Ãºnica un recurso (siglas).",
+                          "pregunta":  "Con la U: elemento que identifica de forma única un recurso (siglas).",
                           "respuesta":  "URL",
                           "ciclo":  "DAW",
                           "modulo":  "Cliente",
@@ -3706,7 +3706,7 @@
                           "pregunta":  "Con la U: interfaz de usuario (siglas).",
                           "respuesta":  "UI",
                           "ciclo":  "DAW",
-                          "modulo":  "DiseÃ±o",
+                          "modulo":  "Diseño",
                           "dificultad":  "basica",
                           "distractores":  {
                                                "starts":  [
@@ -3727,7 +3727,7 @@
                       {
                           "letra":  "U",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la U: persona que usa un sistema informÃ¡tico.",
+                          "pregunta":  "Con la U: persona que usa un sistema informático.",
                           "respuesta":  "Usuario",
                           "ciclo":  "SMR",
                           "modulo":  "Sistemas",
@@ -3751,7 +3751,7 @@
                       {
                           "letra":  "U",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la U: actualizaciÃ³n de un programa o sistema (tÃ©rmino).",
+                          "pregunta":  "Con la U: actualización de un programa o sistema (término).",
                           "respuesta":  "Update",
                           "ciclo":  "ASIR",
                           "modulo":  "Sistemas",
@@ -3775,7 +3775,7 @@
                       {
                           "letra":  "U",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la U: programa pequeÃ±o pensado para una tarea concreta.",
+                          "pregunta":  "Con la U: programa pequeño pensado para una tarea concreta.",
                           "respuesta":  "Utilidad",
                           "ciclo":  "ASIR",
                           "modulo":  "Sistemas",
@@ -3799,7 +3799,7 @@
                       {
                           "letra":  "U",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la U: acciÃ³n de dar nuevo uso a un equipo antes de reciclar.",
+                          "pregunta":  "Con la U: acción de dar nuevo uso a un equipo antes de reciclar.",
                           "respuesta":  "Upcycling",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "Sostenibilidad",
@@ -3823,7 +3823,7 @@
                       {
                           "letra":  "U",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la U: proceso de cargar informaciÃ³n a un servidor o nube.",
+                          "pregunta":  "Con la U: proceso de cargar información a un servidor o nube.",
                           "respuesta":  "Upload",
                           "ciclo":  "DAW",
                           "modulo":  "Cliente",
@@ -3847,10 +3847,10 @@
                       {
                           "letra":  "U",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la U: archivo de configuraciÃ³n de usuario (concepto).",
+                          "pregunta":  "Con la U: archivo de configuración de usuario (concepto).",
                           "respuesta":  "Userconfig",
                           "ciclo":  "ASIR",
-                          "modulo":  "AdministraciÃ³n",
+                          "modulo":  "Administración",
                           "dificultad":  "media",
                           "distractores":  {
                                                "starts":  [
@@ -3859,9 +3859,9 @@
                                                               "Upcycling"
                                                           ],
                                                "contains":  [
-                                                                "AutomatizaciÃ³n",
+                                                                "Automatización",
                                                                 "Grupo",
-                                                                "AutorizaciÃ³n"
+                                                                "Autorización"
                                                             ],
                                                "all":  [
 
@@ -3871,8 +3871,8 @@
                       {
                           "letra":  "V",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la V: tecnologÃ­a que permite ejecutar varios sistemas sobre un mismo hardware.",
-                          "respuesta":  "VirtualizaciÃ³n",
+                          "pregunta":  "Con la V: tecnología que permite ejecutar varios sistemas sobre un mismo hardware.",
+                          "respuesta":  "Virtualización",
                           "ciclo":  "ASIR",
                           "modulo":  "Sistemas",
                           "dificultad":  "media",
@@ -3903,7 +3903,7 @@
                           "distractores":  {
                                                "starts":  [
                                                               "Vulnerabilidad",
-                                                              "VirtualizaciÃ³n",
+                                                              "Virtualización",
                                                               "VLAN"
                                                           ],
                                                "contains":  [
@@ -3920,7 +3920,7 @@
                           "letra":  "V",
                           "tipo":  "empieza",
                           "pregunta":  "Con la V: proceso de comprobar que los datos cumplen reglas.",
-                          "respuesta":  "ValidaciÃ³n",
+                          "respuesta":  "Validación",
                           "ciclo":  "DAW",
                           "modulo":  "Servidor",
                           "dificultad":  "basica",
@@ -3951,7 +3951,7 @@
                           "distractores":  {
                                                "starts":  [
                                                               "VPN",
-                                                              "VirtualizaciÃ³n",
+                                                              "Virtualización",
                                                               "VLAN"
                                                           ],
                                                "contains":  [
@@ -3967,20 +3967,20 @@
                       {
                           "letra":  "V",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la V: tiempo durante el que un equipo puede seguir usÃ¡ndose.",
-                          "respuesta":  "VidaÃºtil",
+                          "pregunta":  "Con la V: tiempo durante el que un equipo puede seguir usándose.",
+                          "respuesta":  "Vidaútil",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "Sostenibilidad",
                           "dificultad":  "media",
                           "distractores":  {
                                                "starts":  [
-                                                              "VirtualizaciÃ³n",
+                                                              "Virtualización",
                                                               "VLAN",
-                                                              "ValidaciÃ³n"
+                                                              "Validación"
                                                           ],
                                                "contains":  [
-                                                                "IntervenciÃ³n",
-                                                                "InvestigaciÃ³n",
+                                                                "Intervención",
+                                                                "Investigación",
                                                                 "Hypervisor"
                                                             ],
                                                "all":  [
@@ -3991,21 +3991,21 @@
                       {
                           "letra":  "V",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la V: control y gestiÃ³n de versiones de un software.",
+                          "pregunta":  "Con la V: control y gestión de versiones de un software.",
                           "respuesta":  "Versionado",
                           "ciclo":  "DAW",
                           "modulo":  "Entornos de desarrollo",
                           "dificultad":  "basica",
                           "distractores":  {
                                                "starts":  [
-                                                              "ValidaciÃ³n",
+                                                              "Validación",
                                                               "VPN",
                                                               "Vulnerabilidad"
                                                           ],
                                                "contains":  [
                                                                 "Javadoc",
                                                                 "CSV",
-                                                                "ValidaciÃ³n"
+                                                                "Validación"
                                                             ],
                                                "all":  [
 
@@ -4015,21 +4015,21 @@
                       {
                           "letra":  "V",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la V: red de Ã¡rea local virtual (siglas).",
+                          "pregunta":  "Con la V: red de área local virtual (siglas).",
                           "respuesta":  "VLAN",
                           "ciclo":  "ASIR",
                           "modulo":  "Redes",
                           "dificultad":  "media",
                           "distractores":  {
                                                "starts":  [
-                                                              "VirtualizaciÃ³n",
+                                                              "Virtualización",
                                                               "VMDK",
                                                               "VPN"
                                                           ],
                                                "contains":  [
                                                                 "Hypervisor",
                                                                 "Nameserver",
-                                                                "VirtualizaciÃ³n"
+                                                                "Virtualización"
                                                             ],
                                                "all":  [
 
@@ -4039,20 +4039,20 @@
                       {
                           "letra":  "V",
                           "tipo":  "empieza",
-                          "pregunta":  "Con la V: formato de disco virtual usado por mÃ¡quinas virtuales (tÃ©rmino).",
+                          "pregunta":  "Con la V: formato de disco virtual usado por máquinas virtuales (término).",
                           "respuesta":  "VMDK",
                           "ciclo":  "ASIR",
                           "modulo":  "Sistemas",
                           "dificultad":  "alta",
                           "distractores":  {
                                                "starts":  [
-                                                              "VirtualizaciÃ³n",
+                                                              "Virtualización",
                                                               "VLAN",
                                                               "VPN"
                                                           ],
                                                "contains":  [
                                                                 "Hypervisor",
-                                                                "VirtualizaciÃ³n",
+                                                                "Virtualización",
                                                                 "Observabilidad"
                                                             ],
                                                "all":  [
@@ -4062,3 +4062,4 @@
                       }
                   ]
 }
+

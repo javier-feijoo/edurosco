@@ -1,8 +1,8 @@
 ﻿{
-    "titulo":  "RoscoIntegra â€“ Cultura Xeral e Galicia (4Âº ESO â€“ Bacharelato)",
+    "titulo":  "RoscoIntegra - Cultura Xeral e Galicia (4º ESO - Bacharelato)",
     "version":  "1.2-galicia",
     "fecha_generacion":  "2026-02-26",
-    "descripcion":  "Banco revisado e mÃ¡is concreto para alumnado de 4Âº ESO a Bacharelato. Cultura xeral, tecnoloxÃ­a, cine, mÃºsica e referencias a Galicia, LalÃ­n e comarca do Deza. 8 preguntas por letra (4 \u0027empieza\u0027 + 4 \u0027contiene\u0027). Sen nÃºmeros nin palabras con sufixos raros.",
+    "descripcion":  "Banco revisado e máis concreto para alumnado de 4º ESO a Bacharelato. Cultura xeral, tecnoloxía, cine, música e referencias a Galicia, Lalín e comarca do Deza. 8 preguntas por letra (4 \u0027empieza\u0027 + 4 \u0027contiene\u0027). Sen números nin palabras con sufixos raros.",
     "letras_incluidas":  [
                              "A",
                              "B",
@@ -31,7 +31,7 @@
                       {
                           "letra":  "A",
                           "tipo":  "empieza",
-                          "pregunta":  "Con A: sistema operativo moi usado en mÃ³biles.",
+                          "pregunta":  "Con A: sistema operativo moi usado en móbiles.",
                           "respuesta":  "Android",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -55,7 +55,7 @@
                       {
                           "letra":  "A",
                           "tipo":  "empieza",
-                          "pregunta":  "Con A: tenda en liÃ±a moi coÃ±ecida a nivel mundial.",
+                          "pregunta":  "Con A: tenda en liña moi coñecida a nivel mundial.",
                           "respuesta":  "Amazon",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -79,7 +79,7 @@
                       {
                           "letra":  "A",
                           "tipo":  "empieza",
-                          "pregunta":  "Con A: pelÃ­cula de James Cameron sobre Pandora.",
+                          "pregunta":  "Con A: película de James Cameron sobre Pandora.",
                           "respuesta":  "Avatar",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -103,7 +103,7 @@
                       {
                           "letra":  "A",
                           "tipo":  "empieza",
-                          "pregunta":  "Con A: comunidade autÃ³noma veciÃ±a de Galicia polo leste.",
+                          "pregunta":  "Con A: comunidade autónoma veciña de Galicia polo leste.",
                           "respuesta":  "Asturias",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -127,7 +127,7 @@
                       {
                           "letra":  "A",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n A: etapa educativa posterior Ã¡ ESO.",
+                          "pregunta":  "Contén A: etapa educativa posterior á ESO.",
                           "respuesta":  "Bacharelato",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -151,7 +151,7 @@
                       {
                           "letra":  "A",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n A: aplicaciÃ³n de mensaxerÃ­a con canles e grupos.",
+                          "pregunta":  "Contén A: aplicación de mensaxería con canles e grupos.",
                           "respuesta":  "Telegram",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -175,7 +175,7 @@
                       {
                           "letra":  "A",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n A: consola de Sony moi coÃ±ecida.",
+                          "pregunta":  "Contén A: consola de Sony moi coñecida.",
                           "respuesta":  "PlayStation",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -199,7 +199,7 @@
                       {
                           "letra":  "A",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n A: comunidade autÃ³noma do noroeste.",
+                          "pregunta":  "Contén A: comunidade autónoma do noroeste.",
                           "respuesta":  "Galicia",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -223,7 +223,7 @@
                       {
                           "letra":  "B",
                           "tipo":  "empieza",
-                          "pregunta":  "Con B: tecnoloxÃ­a sen fÃ­os para conectar auriculares ao mÃ³bil.",
+                          "pregunta":  "Con B: tecnoloxía sen fíos para conectar auriculares ao móbil.",
                           "respuesta":  "Bluetooth",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -239,7 +239,7 @@
                       {
                           "letra":  "B",
                           "tipo":  "empieza",
-                          "pregunta":  "Con B: cidade onde estÃ¡ o Camp Nou.",
+                          "pregunta":  "Con B: cidade onde está o Camp Nou.",
                           "respuesta":  "Barcelona",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -271,7 +271,7 @@
                       {
                           "letra":  "B",
                           "tipo":  "empieza",
-                          "pregunta":  "Con B: arquipÃ©lago espaÃ±ol no MediterrÃ¡neo.",
+                          "pregunta":  "Con B: arquipélago español no Mediterráneo.",
                           "respuesta":  "Baleares",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -287,7 +287,7 @@
                       {
                           "letra":  "B",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n B: palabra que describe o nivel de estudos tras a ESO.",
+                          "pregunta":  "Contén B: palabra que describe o nivel de estudos tras a ESO.",
                           "respuesta":  "Bacharelato",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -309,7 +309,7 @@
                       {
                           "letra":  "B",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n B: tecnoloxÃ­a sen fÃ­os para accesorios.",
+                          "pregunta":  "Contén B: tecnoloxía sen fíos para accesorios.",
                           "respuesta":  "Bluetooth",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -325,7 +325,7 @@
                       {
                           "letra":  "B",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n B: cidade catalÃ¡ onde estÃ¡ a SagradaFamilia.",
+                          "pregunta":  "Contén B: cidade catalá onde está a SagradaFamilia.",
                           "respuesta":  "Barcelona",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -341,7 +341,7 @@
                       {
                           "letra":  "B",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n B: plataforma de vÃ­deos en liÃ±a.",
+                          "pregunta":  "Contén B: plataforma de vídeos en liña.",
                           "respuesta":  "YouTube",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -357,7 +357,7 @@
                       {
                           "letra":  "C",
                           "tipo":  "empieza",
-                          "pregunta":  "Con C: prato tÃ­pico de LalÃ­n con festa gastronÃ³mica.",
+                          "pregunta":  "Con C: prato típico de Lalín con festa gastronómica.",
                           "respuesta":  "Cocido",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -396,7 +396,7 @@
                       {
                           "letra":  "C",
                           "tipo":  "empieza",
-                          "pregunta":  "Con C: arte das pelÃ­culas.",
+                          "pregunta":  "Con C: arte das películas.",
                           "respuesta":  "Cinema",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -416,7 +416,7 @@
                       {
                           "letra":  "C",
                           "tipo":  "empieza",
-                          "pregunta":  "Con C: club de fÃºtbol galego de Vigo.",
+                          "pregunta":  "Con C: club de fútbol galego de Vigo.",
                           "respuesta":  "Celta",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -435,7 +435,7 @@
                       {
                           "letra":  "C",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n C: conxunto de concellos dun territorio.",
+                          "pregunta":  "Contén C: conxunto de concellos dun territorio.",
                           "respuesta":  "Comarca",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -455,7 +455,7 @@
                       {
                           "letra":  "C",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n C: festa gastronÃ³mica de LalÃ­n.",
+                          "pregunta":  "Contén C: festa gastronómica de Lalín.",
                           "respuesta":  "Cocido",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -475,7 +475,7 @@
                       {
                           "letra":  "C",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n C: arte das pelÃ­culas.",
+                          "pregunta":  "Contén C: arte das películas.",
                           "respuesta":  "Cinema",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -495,7 +495,7 @@
                       {
                           "letra":  "C",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n C: comunidade autÃ³noma do noroeste.",
+                          "pregunta":  "Contén C: comunidade autónoma do noroeste.",
                           "respuesta":  "Galicia",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -515,7 +515,7 @@
                       {
                           "letra":  "D",
                           "tipo":  "empieza",
-                          "pregunta":  "Con D: comarca galega onde estÃ¡ LalÃ­n.",
+                          "pregunta":  "Con D: comarca galega onde está Lalín.",
                           "respuesta":  "Deza",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -559,7 +559,7 @@
                       {
                           "letra":  "D",
                           "tipo":  "empieza",
-                          "pregunta":  "Con D: compaÃ±Ã­a de animaciÃ³n e personaxes como Mickey.",
+                          "pregunta":  "Con D: compañía de animación e personaxes como Mickey.",
                           "respuesta":  "Disney",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -603,7 +603,7 @@
                       {
                           "letra":  "D",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n D: palabra para falar de actividade fÃ­sica.",
+                          "pregunta":  "Contén D: palabra para falar de actividade física.",
                           "respuesta":  "Deporte",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -626,7 +626,7 @@
                       {
                           "letra":  "D",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n D: festa gastronÃ³mica de LalÃ­n.",
+                          "pregunta":  "Contén D: festa gastronómica de Lalín.",
                           "respuesta":  "Cocido",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -648,7 +648,7 @@
                       {
                           "letra":  "D",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n D: ordenador que ofrece servizos en rede.",
+                          "pregunta":  "Contén D: ordenador que ofrece servizos en rede.",
                           "respuesta":  "Servidor",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -670,7 +670,7 @@
                       {
                           "letra":  "D",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n D: xogo interactivo en consola ou PC.",
+                          "pregunta":  "Contén D: xogo interactivo en consola ou PC.",
                           "respuesta":  "Videoxogo",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -692,8 +692,8 @@
                       {
                           "letra":  "E",
                           "tipo":  "empieza",
-                          "pregunta":  "Con E: paÃ­s no que vivimos.",
-                          "respuesta":  "EspaÃ±a",
+                          "pregunta":  "Con E: país no que vivimos.",
+                          "respuesta":  "España",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
                           "dificultad":  "media",
@@ -719,7 +719,7 @@
                           "distractores":  {
                                                "starts":  [
                                                               "Eclipse",
-                                                              "EspaÃ±a",
+                                                              "España",
                                                               "Excel"
                                                           ],
                                                "contains":  "Bacharelato",
@@ -731,7 +731,7 @@
                       {
                           "letra":  "E",
                           "tipo":  "empieza",
-                          "pregunta":  "Con E: folla de cÃ¡lculo moi coÃ±ecida.",
+                          "pregunta":  "Con E: folla de cálculo moi coñecida.",
                           "respuesta":  "Excel",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -739,7 +739,7 @@
                           "distractores":  {
                                                "starts":  [
                                                               "Eclipse",
-                                                              "EspaÃ±a",
+                                                              "España",
                                                               "Europa"
                                                           ],
                                                "contains":  "Bacharelato",
@@ -751,14 +751,14 @@
                       {
                           "letra":  "E",
                           "tipo":  "empieza",
-                          "pregunta":  "Con E: fenÃ³meno astronÃ³mico cando se oculta o Sol ou a LÃºa.",
+                          "pregunta":  "Con E: fenómeno astronómico cando se oculta o Sol ou a Lúa.",
                           "respuesta":  "Eclipse",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
                           "dificultad":  "media",
                           "distractores":  {
                                                "starts":  [
-                                                              "EspaÃ±a",
+                                                              "España",
                                                               "Europa"
                                                           ],
                                                "contains":  "Bacharelato",
@@ -770,7 +770,7 @@
                       {
                           "letra":  "E",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n E: rede mundial de ordenadores.",
+                          "pregunta":  "Contén E: rede mundial de ordenadores.",
                           "respuesta":  "Internet",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -778,7 +778,7 @@
                           "distractores":  {
                                                "starts":  [
                                                               "Eclipse",
-                                                              "EspaÃ±a",
+                                                              "España",
                                                               "Europa"
                                                           ],
                                                "contains":  "Bacharelato",
@@ -790,7 +790,7 @@
                       {
                           "letra":  "E",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n E: plataforma de vÃ­deos en liÃ±a.",
+                          "pregunta":  "Contén E: plataforma de vídeos en liña.",
                           "respuesta":  "YouTube",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -798,7 +798,7 @@
                           "distractores":  {
                                                "starts":  [
                                                               "Eclipse",
-                                                              "EspaÃ±a",
+                                                              "España",
                                                               "Europa"
                                                           ],
                                                "contains":  "Bacharelato",
@@ -810,7 +810,7 @@
                       {
                           "letra":  "E",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n E: cidade galega coÃ±ecida polas termas.",
+                          "pregunta":  "Contén E: cidade galega coñecida polas termas.",
                           "respuesta":  "Ourense",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -818,7 +818,7 @@
                           "distractores":  {
                                                "starts":  [
                                                               "Eclipse",
-                                                              "EspaÃ±a",
+                                                              "España",
                                                               "Europa"
                                                           ],
                                                "contains":  "Bacharelato",
@@ -830,7 +830,7 @@
                       {
                           "letra":  "E",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n E: etapa educativa posterior Ã¡ ESO.",
+                          "pregunta":  "Contén E: etapa educativa posterior á ESO.",
                           "respuesta":  "Bacharelato",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -838,7 +838,7 @@
                           "distractores":  {
                                                "starts":  [
                                                               "Eclipse",
-                                                              "EspaÃ±a",
+                                                              "España",
                                                               "Europa"
                                                           ],
                                                "contains":  [
@@ -901,7 +901,7 @@
                       {
                           "letra":  "F",
                           "tipo":  "empieza",
-                          "pregunta":  "Con F: saga de videoxogos de fÃºtbol da EA.",
+                          "pregunta":  "Con F: saga de videoxogos de fútbol da EA.",
                           "respuesta":  "FIFA",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -925,7 +925,7 @@
                       {
                           "letra":  "F",
                           "tipo":  "empieza",
-                          "pregunta":  "Con F: paÃ­s europeo cuxa capital Ã© ParÃ­s.",
+                          "pregunta":  "Con F: país europeo cuxa capital é París.",
                           "respuesta":  "Francia",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -949,7 +949,7 @@
                       {
                           "letra":  "F",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n F: deporte con balÃ³n moi seguido.",
+                          "pregunta":  "Contén F: deporte con balón moi seguido.",
                           "respuesta":  "Futbol",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -973,7 +973,7 @@
                       {
                           "letra":  "F",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n F: plataforma de series e pelÃ­culas.",
+                          "pregunta":  "Contén F: plataforma de series e películas.",
                           "respuesta":  "Netflix",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -997,7 +997,7 @@
                       {
                           "letra":  "F",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n F: programas dun ordenador.",
+                          "pregunta":  "Contén F: programas dun ordenador.",
                           "respuesta":  "Software",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -1021,7 +1021,7 @@
                       {
                           "letra":  "F",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n F: evento cultural.",
+                          "pregunta":  "Contén F: evento cultural.",
                           "respuesta":  "Festival",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -1045,7 +1045,7 @@
                       {
                           "letra":  "G",
                           "tipo":  "empieza",
-                          "pregunta":  "Con G: comunidade autÃ³noma do noroeste da PenÃ­nsula.",
+                          "pregunta":  "Con G: comunidade autónoma do noroeste da Península.",
                           "respuesta":  "Galicia",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -1069,7 +1069,7 @@
                       {
                           "letra":  "G",
                           "tipo":  "empieza",
-                          "pregunta":  "Con G: buscador mÃ¡is coÃ±ecido de Internet.",
+                          "pregunta":  "Con G: buscador máis coñecido de Internet.",
                           "respuesta":  "Google",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -1117,7 +1117,7 @@
                       {
                           "letra":  "G",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n G: acciÃ³n de explorar pÃ¡xinas web.",
+                          "pregunta":  "Contén G: acción de explorar páxinas web.",
                           "respuesta":  "Navegar",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -1133,7 +1133,7 @@
                       {
                           "letra":  "G",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n G: capital de Galicia.",
+                          "pregunta":  "Contén G: capital de Galicia.",
                           "respuesta":  "Santiago",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -1149,7 +1149,7 @@
                       {
                           "letra":  "G",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n G: aplicaciÃ³n de mensaxerÃ­a con canles e grupos.",
+                          "pregunta":  "Contén G: aplicación de mensaxería con canles e grupos.",
                           "respuesta":  "Telegram",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -1165,7 +1165,7 @@
                       {
                           "letra":  "G",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n G: comunidade autÃ³noma do noroeste.",
+                          "pregunta":  "Contén G: comunidade autónoma do noroeste.",
                           "respuesta":  "Galicia",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -1189,7 +1189,7 @@
                       {
                           "letra":  "H",
                           "tipo":  "empieza",
-                          "pregunta":  "Con H: parte fÃ­sica dun ordenador (en inglÃ©s).",
+                          "pregunta":  "Con H: parte física dun ordenador (en inglés).",
                           "respuesta":  "Hardware",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -1227,7 +1227,7 @@
                       {
                           "letra":  "H",
                           "tipo":  "empieza",
-                          "pregunta":  "Con H: marca chinesa de mÃ³biles.",
+                          "pregunta":  "Con H: marca chinesa de móbiles.",
                           "respuesta":  "Huawei",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -1265,7 +1265,7 @@
                       {
                           "letra":  "H",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n H: saga dun mago mozo con lentes.",
+                          "pregunta":  "Contén H: saga dun mago mozo con lentes.",
                           "respuesta":  "HarryPotter",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -1284,7 +1284,7 @@
                       {
                           "letra":  "H",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n H: parte fÃ­sica dun ordenador (en inglÃ©s).",
+                          "pregunta":  "Contén H: parte física dun ordenador (en inglés).",
                           "respuesta":  "Hardware",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -1303,7 +1303,7 @@
                       {
                           "letra":  "H",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n H: persoa que tenta entrar nun sistema.",
+                          "pregunta":  "Contén H: persoa que tenta entrar nun sistema.",
                           "respuesta":  "Hacker",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -1322,7 +1322,7 @@
                       {
                           "letra":  "H",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n H: marca chinesa de mÃ³biles.",
+                          "pregunta":  "Contén H: marca chinesa de móbiles.",
                           "respuesta":  "Huawei",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -1341,7 +1341,7 @@
                       {
                           "letra":  "I",
                           "tipo":  "empieza",
-                          "pregunta":  "Con I: rede social de fotos e vÃ­deos curtos.",
+                          "pregunta":  "Con I: rede social de fotos e vídeos curtos.",
                           "respuesta":  "Instagram",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -1364,7 +1364,7 @@
                       {
                           "letra":  "I",
                           "tipo":  "empieza",
-                          "pregunta":  "Con I: marca coÃ±ecida de procesadores.",
+                          "pregunta":  "Con I: marca coñecida de procesadores.",
                           "respuesta":  "Intel",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -1411,7 +1411,7 @@
                       {
                           "letra":  "I",
                           "tipo":  "empieza",
-                          "pregunta":  "Con I: paÃ­s europeo con forma de bota.",
+                          "pregunta":  "Con I: país europeo con forma de bota.",
                           "respuesta":  "Italia",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -1435,7 +1435,7 @@
                       {
                           "letra":  "I",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n I: comunidade autÃ³noma do noroeste.",
+                          "pregunta":  "Contén I: comunidade autónoma do noroeste.",
                           "respuesta":  "Galicia",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -1459,7 +1459,7 @@
                       {
                           "letra":  "I",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n I: consola de Sony.",
+                          "pregunta":  "Contén I: consola de Sony.",
                           "respuesta":  "PlayStation",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -1483,7 +1483,7 @@
                       {
                           "letra":  "I",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n I: cidade galega mÃ¡is poboada.",
+                          "pregunta":  "Contén I: cidade galega máis poboada.",
                           "respuesta":  "Vigo",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -1507,7 +1507,7 @@
                       {
                           "letra":  "I",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n I: festa gastronÃ³mica de LalÃ­n.",
+                          "pregunta":  "Contén I: festa gastronómica de Lalín.",
                           "respuesta":  "Cocido",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -1531,7 +1531,7 @@
                       {
                           "letra":  "J",
                           "tipo":  "empieza",
-                          "pregunta":  "Con J: linguaxe de programaciÃ³n moi usada.",
+                          "pregunta":  "Con J: linguaxe de programación moi usada.",
                           "respuesta":  "Java",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -1553,7 +1553,7 @@
                       {
                           "letra":  "J",
                           "tipo":  "empieza",
-                          "pregunta":  "Con J: vilÃ¡n de Batman coa cara pintada.",
+                          "pregunta":  "Con J: vilán de Batman coa cara pintada.",
                           "respuesta":  "Joker",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -1597,7 +1597,7 @@
                       {
                           "letra":  "J",
                           "tipo":  "empieza",
-                          "pregunta":  "Con J: mando clÃ¡sico para xogar en PC.",
+                          "pregunta":  "Con J: mando clásico para xogar en PC.",
                           "respuesta":  "Joystick",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -1619,7 +1619,7 @@
                       {
                           "letra":  "J",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n J: linguaxe de programaciÃ³n moi usada.",
+                          "pregunta":  "Contén J: linguaxe de programación moi usada.",
                           "respuesta":  "Java",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -1641,7 +1641,7 @@
                       {
                           "letra":  "J",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n J: vilÃ¡n de Batman.",
+                          "pregunta":  "Contén J: vilán de Batman.",
                           "respuesta":  "Joker",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -1663,7 +1663,7 @@
                       {
                           "letra":  "J",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n J: personaxe de StarWars.",
+                          "pregunta":  "Contén J: personaxe de StarWars.",
                           "respuesta":  "Jedi",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -1685,7 +1685,7 @@
                       {
                           "letra":  "J",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n J: mando clÃ¡sico para xogar.",
+                          "pregunta":  "Contén J: mando clásico para xogar.",
                           "respuesta":  "Joystick",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -1707,7 +1707,7 @@
                       {
                           "letra":  "L",
                           "tipo":  "empieza",
-                          "pregunta":  "Con L: vila galega coÃ±ecida polo Cocido.",
+                          "pregunta":  "Con L: vila galega coñecida polo Cocido.",
                           "respuesta":  "Lalin",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -1765,7 +1765,7 @@
                       {
                           "letra":  "L",
                           "tipo":  "empieza",
-                          "pregunta":  "Con L: cidade inglesa coÃ±ecida polo seu equipo de fÃºtbol.",
+                          "pregunta":  "Con L: cidade inglesa coñecida polo seu equipo de fútbol.",
                           "respuesta":  "Liverpool",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -1784,7 +1784,7 @@
                       {
                           "letra":  "L",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n L: vila do Deza coÃ±ecida polo Cocido.",
+                          "pregunta":  "Contén L: vila do Deza coñecida polo Cocido.",
                           "respuesta":  "Lalin",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -1804,7 +1804,7 @@
                       {
                           "letra":  "L",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n L: plataforma de series e pelÃ­culas.",
+                          "pregunta":  "Contén L: plataforma de series e películas.",
                           "respuesta":  "Netflix",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -1823,7 +1823,7 @@
                       {
                           "letra":  "L",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n L: comunidade autÃ³noma do noroeste.",
+                          "pregunta":  "Contén L: comunidade autónoma do noroeste.",
                           "respuesta":  "Galicia",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -1842,7 +1842,7 @@
                       {
                           "letra":  "L",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n L: etapa educativa posterior Ã¡ ESO.",
+                          "pregunta":  "Contén L: etapa educativa posterior á ESO.",
                           "respuesta":  "Bacharelato",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -1864,7 +1864,7 @@
                       {
                           "letra":  "M",
                           "tipo":  "empieza",
-                          "pregunta":  "Con M: videoxogo de bloques para construÃ­r mundos.",
+                          "pregunta":  "Con M: videoxogo de bloques para construír mundos.",
                           "respuesta":  "Minecraft",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -1912,7 +1912,7 @@
                       {
                           "letra":  "M",
                           "tipo":  "empieza",
-                          "pregunta":  "Con M: capital de EspaÃ±a.",
+                          "pregunta":  "Con M: capital de España.",
                           "respuesta":  "Madrid",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -1960,7 +1960,7 @@
                       {
                           "letra":  "M",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n M: aplicaciÃ³n de mensaxerÃ­a con canles e grupos.",
+                          "pregunta":  "Contén M: aplicación de mensaxería con canles e grupos.",
                           "respuesta":  "Telegram",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -1984,7 +1984,7 @@
                       {
                           "letra":  "M",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n M: conxunto de concellos dun territorio.",
+                          "pregunta":  "Contén M: conxunto de concellos dun territorio.",
                           "respuesta":  "Comarca",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -2008,7 +2008,7 @@
                       {
                           "letra":  "M",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n M: arte das pelÃ­culas.",
+                          "pregunta":  "Contén M: arte das películas.",
                           "respuesta":  "Cinema",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -2032,7 +2032,7 @@
                       {
                           "letra":  "M",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n M: operador de telefonÃ­a en EspaÃ±a.",
+                          "pregunta":  "Contén M: operador de telefonía en España.",
                           "respuesta":  "Movistar",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -2056,7 +2056,7 @@
                       {
                           "letra":  "N",
                           "tipo":  "empieza",
-                          "pregunta":  "Con N: plataforma de series e pelÃ­culas en streaming.",
+                          "pregunta":  "Con N: plataforma de series e películas en streaming.",
                           "respuesta":  "Netflix",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -2079,7 +2079,7 @@
                       {
                           "letra":  "N",
                           "tipo":  "empieza",
-                          "pregunta":  "Con N: compaÃ±Ã­a xaponesa de consolas como Switch.",
+                          "pregunta":  "Con N: compañía xaponesa de consolas como Switch.",
                           "respuesta":  "Nintendo",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -2102,7 +2102,7 @@
                       {
                           "letra":  "N",
                           "tipo":  "empieza",
-                          "pregunta":  "Con N: apelido dun tenista espaÃ±ol moi famoso.",
+                          "pregunta":  "Con N: apelido dun tenista español moi famoso.",
                           "respuesta":  "Nadal",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -2122,7 +2122,7 @@
                       {
                           "letra":  "N",
                           "tipo":  "empieza",
-                          "pregunta":  "Con N: paÃ­s europeo coÃ±ecido polos fiordos.",
+                          "pregunta":  "Con N: país europeo coñecido polos fiordos.",
                           "respuesta":  "Noruega",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -2145,7 +2145,7 @@
                       {
                           "letra":  "N",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n N: acciÃ³n de explorar pÃ¡xinas web.",
+                          "pregunta":  "Contén N: acción de explorar páxinas web.",
                           "respuesta":  "Navegar",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -2168,7 +2168,7 @@
                       {
                           "letra":  "N",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n N: plataforma de series e pelÃ­culas.",
+                          "pregunta":  "Contén N: plataforma de series e películas.",
                           "respuesta":  "Netflix",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -2191,7 +2191,7 @@
                       {
                           "letra":  "N",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n N: rede mundial.",
+                          "pregunta":  "Contén N: rede mundial.",
                           "respuesta":  "Internet",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -2214,7 +2214,7 @@
                       {
                           "letra":  "N",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n N: consola de Sony moi coÃ±ecida.",
+                          "pregunta":  "Contén N: consola de Sony moi coñecida.",
                           "respuesta":  "PlayStation",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -2261,7 +2261,7 @@
                       {
                           "letra":  "O",
                           "tipo":  "empieza",
-                          "pregunta":  "Con O: empresa coÃ±ecida por unha base de datos e Java.",
+                          "pregunta":  "Con O: empresa coñecida por unha base de datos e Java.",
                           "respuesta":  "Oracle",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -2285,7 +2285,7 @@
                       {
                           "letra":  "O",
                           "tipo":  "empieza",
-                          "pregunta":  "Con O: banda britÃ¡nica da canciÃ³n Wonderwall.",
+                          "pregunta":  "Con O: banda británica da canción Wonderwall.",
                           "respuesta":  "Oasis",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -2309,7 +2309,7 @@
                       {
                           "letra":  "O",
                           "tipo":  "empieza",
-                          "pregunta":  "Con O: tecnoloxÃ­a de pantallas usada en mÃ³biles e TV.",
+                          "pregunta":  "Con O: tecnoloxía de pantallas usada en móbiles e TV.",
                           "respuesta":  "OLED",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -2333,7 +2333,7 @@
                       {
                           "letra":  "O",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n O: operador de telefonÃ­a en EspaÃ±a.",
+                          "pregunta":  "Contén O: operador de telefonía en España.",
                           "respuesta":  "Movistar",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -2357,7 +2357,7 @@
                       {
                           "letra":  "O",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n O: plataforma de mÃºsica en streaming.",
+                          "pregunta":  "Contén O: plataforma de música en streaming.",
                           "respuesta":  "Spotify",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -2381,7 +2381,7 @@
                       {
                           "letra":  "O",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n O: cidade galega coÃ±ecida polas termas.",
+                          "pregunta":  "Contén O: cidade galega coñecida polas termas.",
                           "respuesta":  "Ourense",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -2405,7 +2405,7 @@
                       {
                           "letra":  "O",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n O: etapa educativa posterior Ã¡ ESO.",
+                          "pregunta":  "Contén O: etapa educativa posterior á ESO.",
                           "respuesta":  "Bacharelato",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -2429,7 +2429,7 @@
                       {
                           "letra":  "P",
                           "tipo":  "empieza",
-                          "pregunta":  "Con P: estudo de animaciÃ³n de ToyStory.",
+                          "pregunta":  "Con P: estudo de animación de ToyStory.",
                           "respuesta":  "Pixar",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -2448,7 +2448,7 @@
                       {
                           "letra":  "P",
                           "tipo":  "empieza",
-                          "pregunta":  "Con P: linguaxe de programaciÃ³n moi usada no ensino.",
+                          "pregunta":  "Con P: linguaxe de programación moi usada no ensino.",
                           "respuesta":  "Python",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -2470,7 +2470,7 @@
                       {
                           "letra":  "P",
                           "tipo":  "empieza",
-                          "pregunta":  "Con P: consola moi coÃ±ecida de Sony.",
+                          "pregunta":  "Con P: consola moi coñecida de Sony.",
                           "respuesta":  "PlayStation",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -2492,7 +2492,7 @@
                       {
                           "letra":  "P",
                           "tipo":  "empieza",
-                          "pregunta":  "Con P: paÃ­s veciÃ±o de Galicia polo sur.",
+                          "pregunta":  "Con P: país veciño de Galicia polo sur.",
                           "respuesta":  "Portugal",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -2514,7 +2514,7 @@
                       {
                           "letra":  "P",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n P: plataforma de mÃºsica en streaming.",
+                          "pregunta":  "Contén P: plataforma de música en streaming.",
                           "respuesta":  "Spotify",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -2536,7 +2536,7 @@
                       {
                           "letra":  "P",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n P: consola de Sony moi coÃ±ecida.",
+                          "pregunta":  "Contén P: consola de Sony moi coñecida.",
                           "respuesta":  "PlayStation",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -2558,7 +2558,7 @@
                       {
                           "letra":  "P",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n P: actividade fÃ­sica e competiciÃ³n.",
+                          "pregunta":  "Contén P: actividade física e competición.",
                           "respuesta":  "Deporte",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -2570,7 +2570,7 @@
                                                           ],
                                                "contains":  [
                                                                 "Eclipse",
-                                                                "EspaÃ±a",
+                                                                "España",
                                                                 "Europa"
                                                             ],
                                                "all":  [
@@ -2581,7 +2581,7 @@
                       {
                           "letra":  "P",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n P:  estudo de animaciÃ³n de ToyStory.",
+                          "pregunta":  "Contén P:  estudo de animación de ToyStory.",
                           "respuesta":  "Pixar",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -2600,7 +2600,7 @@
                       {
                           "letra":  "Q",
                           "tipo":  "empieza",
-                          "pregunta":  "Con Q: paÃ­s do Golfo coÃ±ecido polo fÃºtbol.",
+                          "pregunta":  "Con Q: país do Golfo coñecido polo fútbol.",
                           "respuesta":  "Qatar",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -2622,7 +2622,7 @@
                       {
                           "letra":  "Q",
                           "tipo":  "empieza",
-                          "pregunta":  "Con Q: videoxogo clÃ¡sico de disparos en primeira persoa.",
+                          "pregunta":  "Con Q: videoxogo clásico de disparos en primeira persoa.",
                           "respuesta":  "Quake",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -2666,7 +2666,7 @@
                       {
                           "letra":  "Q",
                           "tipo":  "empieza",
-                          "pregunta":  "Con Q: alimento lÃ¡cteo moi comÃºn.",
+                          "pregunta":  "Con Q: alimento lácteo moi común.",
                           "respuesta":  "Queso",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -2688,7 +2688,7 @@
                       {
                           "letra":  "Q",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n Q: novela mÃ¡is famosa de Cervantes.",
+                          "pregunta":  "Contén Q: novela máis famosa de Cervantes.",
                           "respuesta":  "Quijote",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -2710,7 +2710,7 @@
                       {
                           "letra":  "Q",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n Q: alimento lÃ¡cteo moi comÃºn.",
+                          "pregunta":  "Contén Q: alimento lácteo moi común.",
                           "respuesta":  "Queso",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -2732,7 +2732,7 @@
                       {
                           "letra":  "Q",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n Q: paÃ­s do Golfo.",
+                          "pregunta":  "Contén Q: país do Golfo.",
                           "respuesta":  "Qatar",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -2754,7 +2754,7 @@
                       {
                           "letra":  "Q",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n Q: videoxogo clÃ¡sico.",
+                          "pregunta":  "Contén Q: videoxogo clásico.",
                           "respuesta":  "Quake",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -2872,7 +2872,7 @@
                       {
                           "letra":  "R",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n R: continente no que vivimos.",
+                          "pregunta":  "Contén R: continente no que vivimos.",
                           "respuesta":  "Europa",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -2896,7 +2896,7 @@
                       {
                           "letra":  "R",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n R: conxunto de concellos dun territorio.",
+                          "pregunta":  "Contén R: conxunto de concellos dun territorio.",
                           "respuesta":  "Comarca",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -2920,7 +2920,7 @@
                       {
                           "letra":  "R",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n R: operador de telefonÃ­a en EspaÃ±a.",
+                          "pregunta":  "Contén R: operador de telefonía en España.",
                           "respuesta":  "Movistar",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -2944,7 +2944,7 @@
                       {
                           "letra":  "R",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n R: etapa educativa posterior Ã¡ ESO.",
+                          "pregunta":  "Contén R: etapa educativa posterior á ESO.",
                           "respuesta":  "Bacharelato",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -2968,7 +2968,7 @@
                       {
                           "letra":  "S",
                           "tipo":  "empieza",
-                          "pregunta":  "Con S: mÃºsica en streaming moi usada.",
+                          "pregunta":  "Con S: música en streaming moi usada.",
                           "respuesta":  "Spotify",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -2991,7 +2991,7 @@
                       {
                           "letra":  "S",
                           "tipo":  "empieza",
-                          "pregunta":  "Con S: marca coreana de mÃ³biles e TV.",
+                          "pregunta":  "Con S: marca coreana de móbiles e TV.",
                           "respuesta":  "Samsung",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -3014,7 +3014,7 @@
                       {
                           "letra":  "S",
                           "tipo":  "empieza",
-                          "pregunta":  "Con S: capital de AndalucÃ­a.",
+                          "pregunta":  "Con S: capital de Andalucía.",
                           "respuesta":  "Sevilla",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -3060,7 +3060,7 @@
                       {
                           "letra":  "S",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n S: consola de Sony moi coÃ±ecida.",
+                          "pregunta":  "Contén S: consola de Sony moi coñecida.",
                           "respuesta":  "PlayStation",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -3083,7 +3083,7 @@
                       {
                           "letra":  "S",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n S: capital de Galicia.",
+                          "pregunta":  "Contén S: capital de Galicia.",
                           "respuesta":  "Santiago",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -3107,7 +3107,7 @@
                       {
                           "letra":  "S",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n S: mÃºsica en streaming.",
+                          "pregunta":  "Contén S: música en streaming.",
                           "respuesta":  "Spotify",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -3130,7 +3130,7 @@
                       {
                           "letra":  "S",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n S: cidade galega coÃ±ecida polas termas.",
+                          "pregunta":  "Contén S: cidade galega coñecida polas termas.",
                           "respuesta":  "Ourense",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -3153,7 +3153,7 @@
                       {
                           "letra":  "T",
                           "tipo":  "empieza",
-                          "pregunta":  "Con T: rede social de vÃ­deos curtos.",
+                          "pregunta":  "Con T: rede social de vídeos curtos.",
                           "respuesta":  "TikTok",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -3193,7 +3193,7 @@
                       {
                           "letra":  "T",
                           "tipo":  "empieza",
-                          "pregunta":  "Con T: marca de coches elÃ©ctricos moi coÃ±ecida.",
+                          "pregunta":  "Con T: marca de coches eléctricos moi coñecida.",
                           "respuesta":  "Tesla",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -3233,7 +3233,7 @@
                       {
                           "letra":  "T",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n T: aplicaciÃ³n de mensaxerÃ­a con canles.",
+                          "pregunta":  "Contén T: aplicación de mensaxería con canles.",
                           "respuesta":  "Telegram",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -3257,7 +3257,7 @@
                       {
                           "letra":  "T",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n T: rede mundial de ordenadores.",
+                          "pregunta":  "Contén T: rede mundial de ordenadores.",
                           "respuesta":  "Internet",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -3277,7 +3277,7 @@
                       {
                           "letra":  "T",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n T: canle para ver vÃ­deos.",
+                          "pregunta":  "Contén T: canle para ver vídeos.",
                           "respuesta":  "YouTube",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -3297,7 +3297,7 @@
                       {
                           "letra":  "T",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n T: consola de Sony.",
+                          "pregunta":  "Contén T: consola de Sony.",
                           "respuesta":  "PlayStation",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -3317,7 +3317,7 @@
                       {
                           "letra":  "U",
                           "tipo":  "empieza",
-                          "pregunta":  "Con U: distribuciÃ³n de Linux moi coÃ±ecida.",
+                          "pregunta":  "Con U: distribución de Linux moi coñecida.",
                           "respuesta":  "Ubuntu",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -3363,7 +3363,7 @@
                       {
                           "letra":  "U",
                           "tipo":  "empieza",
-                          "pregunta":  "Con U: conector universal para perifÃ©ricos, siglas.",
+                          "pregunta":  "Con U: conector universal para periféricos, siglas.",
                           "respuesta":  "USB",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -3386,7 +3386,7 @@
                       {
                           "letra":  "U",
                           "tipo":  "empieza",
-                          "pregunta":  "Con U: paÃ­s suramericano cuxa capital Ã© Montevideo.",
+                          "pregunta":  "Con U: país suramericano cuxa capital é Montevideo.",
                           "respuesta":  "Uruguay",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -3409,7 +3409,7 @@
                       {
                           "letra":  "U",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n U: palabra para falar de coÃ±ecementos xerais.",
+                          "pregunta":  "Contén U: palabra para falar de coñecementos xerais.",
                           "respuesta":  "Cultura",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -3432,7 +3432,7 @@
                       {
                           "letra":  "U",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n U: deporte con balÃ³n moi seguido.",
+                          "pregunta":  "Contén U: deporte con balón moi seguido.",
                           "respuesta":  "Futbol",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -3455,7 +3455,7 @@
                       {
                           "letra":  "U",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n U: plataforma de vÃ­deos en liÃ±a.",
+                          "pregunta":  "Contén U: plataforma de vídeos en liña.",
                           "respuesta":  "YouTube",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -3478,7 +3478,7 @@
                       {
                           "letra":  "U",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n U: cidade galega coÃ±ecida polas termas.",
+                          "pregunta":  "Contén U: cidade galega coñecida polas termas.",
                           "respuesta":  "Ourense",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -3501,7 +3501,7 @@
                       {
                           "letra":  "V",
                           "tipo":  "empieza",
-                          "pregunta":  "Con V: cidade galega mÃ¡is poboada.",
+                          "pregunta":  "Con V: cidade galega máis poboada.",
                           "respuesta":  "Vigo",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -3524,7 +3524,7 @@
                       {
                           "letra":  "V",
                           "tipo":  "empieza",
-                          "pregunta":  "Con V: reprodutor multimedia moi coÃ±ecido.",
+                          "pregunta":  "Con V: reprodutor multimedia moi coñecido.",
                           "respuesta":  "VLC",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -3593,7 +3593,7 @@
                       {
                           "letra":  "V",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n V: acciÃ³n de explorar pÃ¡xinas web.",
+                          "pregunta":  "Contén V: acción de explorar páxinas web.",
                           "respuesta":  "Navegar",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -3616,7 +3616,7 @@
                       {
                           "letra":  "V",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n V: operador de telefonÃ­a en EspaÃ±a.",
+                          "pregunta":  "Contén V: operador de telefonía en España.",
                           "respuesta":  "Movistar",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -3639,7 +3639,7 @@
                       {
                           "letra":  "V",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n V: palabra para referirse a cine e series.",
+                          "pregunta":  "Contén V: palabra para referirse a cine e series.",
                           "respuesta":  "Television",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -3662,7 +3662,7 @@
                       {
                           "letra":  "V",
                           "tipo":  "contiene",
-                          "pregunta":  "ContÃ©n V: palabra relacionada con xogos.",
+                          "pregunta":  "Contén V: palabra relacionada con xogos.",
                           "respuesta":  "Videoxogo",
                           "ciclo":  "TRANSVERSAL",
                           "modulo":  "CulturaXeral",
@@ -3684,3 +3684,4 @@
                       }
                   ]
 }
+
