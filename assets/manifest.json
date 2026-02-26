@@ -1,0 +1,15 @@
+﻿{
+  "default": "preguntas_base_roscointegra.json",
+  "banks": [
+    {
+      "id": "base",
+      "label": "Banco base",
+      "file": "preguntas_base_roscointegra.json"
+    },
+    {
+      "id": "lalin",
+      "label": "Banco Preguntas Lalín",
+      "file": "lalin.json"
+    }
+  ]
+}
