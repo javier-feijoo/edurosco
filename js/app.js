@@ -19,7 +19,7 @@ import { playCorrectSfx, playWrongSfx, playCountdownTickSfx, playTimeUpSfx } fro
 import { t, setLanguage, getLanguage } from "./i18n.js";
 
 const CONFIG_KEY = "roscointegra.config.v2";
-const BANK_CACHE_KEY = "roscointegra.bank.cache.v2";
+const BANK_CACHE_KEY = "roscointegra.bank.cache.v3";
 const MANIFEST_KEY = "roscointegra.assets.manifest.v1";
 const SCORES_KEY = "roscointegra.scores.v1";
 const DEFAULT_BANK_FILE = "preguntas_base_roscointegra.json";

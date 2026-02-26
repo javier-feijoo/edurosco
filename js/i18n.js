@@ -3,7 +3,7 @@ let currentTranslations = {};
 
 async function fetchTranslations(lang) {
   try {
-    const response = await fetch(`lang/${lang}.json`);
+    const response = await fetch(`lang/${lang}.json`, { cache: "no-store" });
     if (!response.ok) {
       throw new Error(`Failed to load ${lang}.json`);
     }
